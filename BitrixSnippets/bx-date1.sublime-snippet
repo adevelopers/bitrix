@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<?=CIBlockFormatProperties::DateFormat('d.m.Y h:i',MakeTimeStamp(\$arItem["ACTIVE_TO"], CSite::GetDateFormat())); ?>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-date-to-string</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
