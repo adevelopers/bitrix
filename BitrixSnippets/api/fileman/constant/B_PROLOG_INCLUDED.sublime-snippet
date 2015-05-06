@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[B_PROLOG_INCLUDED]]></content>
-	<tabTrigger>B_PROLOG_INCLUDED</tabTrigger>
-	<description>Bitrix CSnippets::Delete</description>
-	<scope>source.php</scope>
-</snippet>

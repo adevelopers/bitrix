@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IBXVirtualIO::ValidateFilenameString(${1:filename})]]></content>
-	<tabTrigger>IBXVirtualIO::ValidateFilenameString</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

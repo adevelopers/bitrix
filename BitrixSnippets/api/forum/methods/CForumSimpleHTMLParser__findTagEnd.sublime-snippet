@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CForumSimpleHTMLParser::findTagEnd(${1:startIndex})]]></content>
-	<tabTrigger>CForumSimpleHTMLParser::findTagEnd</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

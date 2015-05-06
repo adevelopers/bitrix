@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockCMLImport::DropTemporaryTables()]]></content>
-	<tabTrigger>CIBlockCMLImport::DropTemporaryTables</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CUser::GetGroupPolicy(${1:iUserId})]]></content>
-	<tabTrigger>CUser::GetGroupPolicy</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

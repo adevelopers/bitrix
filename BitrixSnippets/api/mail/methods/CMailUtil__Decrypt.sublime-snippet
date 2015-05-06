@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CMailUtil::Decrypt(${1:str},${2:\$key=false})]]></content>
-	<tabTrigger>CMailUtil::Decrypt</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

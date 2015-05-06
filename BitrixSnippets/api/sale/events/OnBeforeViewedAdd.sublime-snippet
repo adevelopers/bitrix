@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnBeforeViewedAdd]]></content>
-	<tabTrigger>OnBeforeViewedAdd</tabTrigger>
-	<description>Bitrix CSaleViewedProduct::Add</description>
-	<scope>source.php</scope>
-</snippet>

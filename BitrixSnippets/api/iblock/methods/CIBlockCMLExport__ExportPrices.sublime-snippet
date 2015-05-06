@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockCMLExport::ExportPrices()]]></content>
-	<tabTrigger>CIBlockCMLExport::ExportPrices</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

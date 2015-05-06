@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockRights::ConvertGroups(${1:arGroups})]]></content>
-	<tabTrigger>CIBlockRights::ConvertGroups</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

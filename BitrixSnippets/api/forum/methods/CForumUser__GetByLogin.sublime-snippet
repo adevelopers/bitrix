@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CForumUser::GetByLogin(${1:Name})]]></content>
-	<tabTrigger>CForumUser::GetByLogin</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

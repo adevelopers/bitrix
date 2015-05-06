@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnUserTypeRightsCheck]]></content>
-	<tabTrigger>OnUserTypeRightsCheck</tabTrigger>
-	<description>Bitrix </description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CMainPage::GetSiteByAcceptLanguage(${1:\$compare_site_id=false})]]></content>
-	<tabTrigger>CMainPage::GetSiteByAcceptLanguage</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIdeaManagmentIdeaComment::Get()]]></content>
-	<tabTrigger>CIdeaManagmentIdeaComment::Get</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

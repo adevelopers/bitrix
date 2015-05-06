@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CReport::GetList(${1:\$owner = ''})]]></content>
-	<tabTrigger>CReport::GetList</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

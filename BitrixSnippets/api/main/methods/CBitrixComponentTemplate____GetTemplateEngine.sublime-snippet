@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CBitrixComponentTemplate::__GetTemplateEngine()]]></content>
-	<tabTrigger>CBitrixComponentTemplate::__GetTemplateEngine</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

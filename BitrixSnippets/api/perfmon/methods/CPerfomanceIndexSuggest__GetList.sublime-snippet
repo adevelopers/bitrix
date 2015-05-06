@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPerfomanceIndexSuggest::GetList(${1:arSelect},${2:arFilter},${3:arOrder})]]></content>
-	<tabTrigger>CPerfomanceIndexSuggest::GetList</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

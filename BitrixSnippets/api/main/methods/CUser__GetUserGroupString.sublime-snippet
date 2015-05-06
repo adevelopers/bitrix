@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CUser::GetUserGroupString()]]></content>
-	<tabTrigger>CUser::GetUserGroupString</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

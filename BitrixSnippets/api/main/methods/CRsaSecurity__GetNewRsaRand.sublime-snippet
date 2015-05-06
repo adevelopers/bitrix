@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CRsaSecurity::GetNewRsaRand()]]></content>
-	<tabTrigger>CRsaSecurity::GetNewRsaRand</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

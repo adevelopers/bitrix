@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CUserTypeDouble::GetDBColumnType(${1:arUserField})]]></content>
-	<tabTrigger>CUserTypeDouble::GetDBColumnType</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSiteCheckerTest::check_localredirect()]]></content>
-	<tabTrigger>CSiteCheckerTest::check_localredirect</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

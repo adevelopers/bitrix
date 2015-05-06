@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCalendarPullSchema::OnGetDependentModule()]]></content>
-	<tabTrigger>CCalendarPullSchema::OnGetDependentModule</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

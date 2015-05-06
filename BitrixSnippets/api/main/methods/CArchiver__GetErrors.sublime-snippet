@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CArchiver::GetErrors()]]></content>
-	<tabTrigger>CArchiver::GetErrors</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

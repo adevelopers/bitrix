@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BX_CRONTAB_SUPPORT]]></content>
-	<tabTrigger>BX_CRONTAB_SUPPORT</tabTrigger>
-	<description>Bitrix CAgent::CheckAgents</description>
-	<scope>source.php</scope>
-</snippet>

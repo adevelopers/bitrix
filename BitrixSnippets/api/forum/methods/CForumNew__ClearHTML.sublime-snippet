@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CForumNew::ClearHTML(${1:ID})]]></content>
-	<tabTrigger>CForumNew::ClearHTML</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

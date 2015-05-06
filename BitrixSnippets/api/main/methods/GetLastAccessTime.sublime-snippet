@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLastAccessTime()]]></content>
-	<tabTrigger>GetLastAccessTime</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

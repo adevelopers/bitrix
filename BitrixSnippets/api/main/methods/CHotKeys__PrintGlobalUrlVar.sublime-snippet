@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHotKeys::PrintGlobalUrlVar()]]></content>
-	<tabTrigger>CHotKeys::PrintGlobalUrlVar</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAccess::GetProviderNames()]]></content>
-	<tabTrigger>CAccess::GetProviderNames</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

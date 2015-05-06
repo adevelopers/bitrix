@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CBXSanitizer::SetLevel(${1:secLevel})]]></content>
-	<tabTrigger>CBXSanitizer::SetLevel</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

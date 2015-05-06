@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[onBeforeResultDelete]]></content>
-	<tabTrigger>onBeforeResultDelete</tabTrigger>
-	<description>Bitrix CFormResult::Delete</description>
-	<scope>source.php</scope>
-</snippet>

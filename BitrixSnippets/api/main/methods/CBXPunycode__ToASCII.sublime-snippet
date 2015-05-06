@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CBXPunycode::ToASCII(${1:domainName},${2:&\$arErrors})]]></content>
-	<tabTrigger>CBXPunycode::ToASCII</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

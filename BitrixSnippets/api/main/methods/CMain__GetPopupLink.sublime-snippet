@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CMain::GetPopupLink(${1:arUrl})]]></content>
-	<tabTrigger>CMain::GetPopupLink</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

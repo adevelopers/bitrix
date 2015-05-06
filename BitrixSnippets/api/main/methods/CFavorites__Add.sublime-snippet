@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFavorites::Add(${1:arFields},${2:\$checkDuplicate = false})]]></content>
-	<tabTrigger>CFavorites::Add</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

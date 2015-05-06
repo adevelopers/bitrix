@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CImageUploader::SaveAllUploadedFiles(${1:uploadedFiles})]]></content>
-	<tabTrigger>CImageUploader::SaveAllUploadedFiles</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

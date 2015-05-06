@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CBitrixComponent::onPrepareComponentParams(${1:arParams})]]></content>
-	<tabTrigger>CBitrixComponent::onPrepareComponentParams</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

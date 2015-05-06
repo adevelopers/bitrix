@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CWizardStep::SetAutoSubmit(${1:\$bool = true})]]></content>
-	<tabTrigger>CWizardStep::SetAutoSubmit</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

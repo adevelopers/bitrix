@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ILearnGraphRelation::ListImmediateParents(${1:nodeId})]]></content>
-	<tabTrigger>ILearnGraphRelation::ListImmediateParents</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

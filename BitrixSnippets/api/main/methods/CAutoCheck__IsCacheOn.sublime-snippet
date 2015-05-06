@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAutoCheck::IsCacheOn()]]></content>
-	<tabTrigger>CAutoCheck::IsCacheOn</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

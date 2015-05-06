@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[onBeforeUserUpdate]]></content>
-	<tabTrigger>onBeforeUserUpdate</tabTrigger>
-	<description>Bitrix CForumUser::Update</description>
-	<scope>source.php</scope>
-</snippet>

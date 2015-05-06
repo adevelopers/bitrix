@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CDataXMLNode::decodeDataTypes(${1:\$attrAsNodeDecode = false})]]></content>
-	<tabTrigger>CDataXMLNode::decodeDataTypes</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

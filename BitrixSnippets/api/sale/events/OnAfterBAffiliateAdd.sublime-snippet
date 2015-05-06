@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnAfterBAffiliateAdd]]></content>
-	<tabTrigger>OnAfterBAffiliateAdd</tabTrigger>
-	<description>Bitrix CSaleAffiliate::Add</description>
-	<scope>source.php</scope>
-</snippet>

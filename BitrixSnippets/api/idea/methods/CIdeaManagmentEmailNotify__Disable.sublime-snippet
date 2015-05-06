@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIdeaManagmentEmailNotify::Disable()]]></content>
-	<tabTrigger>CIdeaManagmentEmailNotify::Disable</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

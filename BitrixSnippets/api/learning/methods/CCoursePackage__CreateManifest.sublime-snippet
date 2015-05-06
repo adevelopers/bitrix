@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCoursePackage::CreateManifest()]]></content>
-	<tabTrigger>CCoursePackage::CreateManifest</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

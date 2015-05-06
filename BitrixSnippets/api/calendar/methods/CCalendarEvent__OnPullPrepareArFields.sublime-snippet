@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCalendarEvent::OnPullPrepareArFields(${1:\$arFields = array()})]]></content>
-	<tabTrigger>CCalendarEvent::OnPullPrepareArFields</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

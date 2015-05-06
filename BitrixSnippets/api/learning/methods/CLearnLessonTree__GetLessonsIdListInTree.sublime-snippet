@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLearnLessonTree::GetLessonsIdListInTree()]]></content>
-	<tabTrigger>CLearnLessonTree::GetLessonsIdListInTree</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

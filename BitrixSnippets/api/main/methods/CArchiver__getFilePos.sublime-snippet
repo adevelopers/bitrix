@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CArchiver::getFilePos()]]></content>
-	<tabTrigger>CArchiver::getFilePos</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockRights::_entity_type()]]></content>
-	<tabTrigger>CIBlockRights::_entity_type</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

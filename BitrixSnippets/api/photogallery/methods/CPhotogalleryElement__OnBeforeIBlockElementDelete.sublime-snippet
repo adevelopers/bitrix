@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPhotogalleryElement::OnBeforeIBlockElementDelete(${1:ID})]]></content>
-	<tabTrigger>CPhotogalleryElement::OnBeforeIBlockElementDelete</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

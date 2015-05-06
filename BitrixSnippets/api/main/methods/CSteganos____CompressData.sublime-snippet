@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSteganos::__CompressData()]]></content>
-	<tabTrigger>CSteganos::__CompressData</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

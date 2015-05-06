@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[setCurrentRow(${1:i})]]></content>
-	<tabTrigger>setCurrentRow</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

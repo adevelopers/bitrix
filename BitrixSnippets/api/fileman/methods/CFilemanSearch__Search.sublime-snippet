@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFilemanSearch::Search(${1:file})]]></content>
-	<tabTrigger>CFilemanSearch::Search</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

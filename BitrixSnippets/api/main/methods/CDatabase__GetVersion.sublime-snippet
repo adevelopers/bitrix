@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CDatabase::GetVersion()]]></content>
-	<tabTrigger>CDatabase::GetVersion</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

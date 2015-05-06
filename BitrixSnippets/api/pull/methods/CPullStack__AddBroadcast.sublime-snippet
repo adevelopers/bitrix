@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPullStack::AddBroadcast(${1:arMessage})]]></content>
-	<tabTrigger>CPullStack::AddBroadcast</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

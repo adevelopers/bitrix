@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CForumStat::Add(${1:arFields})]]></content>
-	<tabTrigger>CForumStat::Add</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

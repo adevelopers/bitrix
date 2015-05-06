@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CUpdateClientPartner::GetLicenseKey()]]></content>
-	<tabTrigger>CUpdateClientPartner::GetLicenseKey</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

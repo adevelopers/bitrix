@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPackageLicense::OnPostForm()]]></content>
-	<tabTrigger>CPackageLicense::OnPostForm</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

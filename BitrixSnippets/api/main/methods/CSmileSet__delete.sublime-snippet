@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSmileSet::delete(${1:id})]]></content>
-	<tabTrigger>CSmileSet::delete</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

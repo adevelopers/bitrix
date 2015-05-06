@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCatalogUnReservedDocsType::getFields()]]></content>
-	<tabTrigger>CCatalogUnReservedDocsType::getFields</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SITE_TEMPLATE_PATH]]></content>
-	<tabTrigger>SITE_TEMPLATE_PATH</tabTrigger>
-	<description>Bitrix CMenu::RecalcMenu</description>
-	<scope>source.php</scope>
-</snippet>

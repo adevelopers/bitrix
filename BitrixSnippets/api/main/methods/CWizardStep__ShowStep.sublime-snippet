@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CWizardStep::ShowStep()]]></content>
-	<tabTrigger>CWizardStep::ShowStep</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

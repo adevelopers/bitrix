@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSiteCheckerTest::check_server_vars()]]></content>
-	<tabTrigger>CSiteCheckerTest::check_server_vars</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

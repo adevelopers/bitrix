@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPHPCacheXCache::__construct()]]></content>
-	<tabTrigger>CPHPCacheXCache::__construct</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

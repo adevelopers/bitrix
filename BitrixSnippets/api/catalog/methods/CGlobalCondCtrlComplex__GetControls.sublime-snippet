@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CGlobalCondCtrlComplex::GetControls(${1:\$strControlID = false})]]></content>
-	<tabTrigger>CGlobalCondCtrlComplex::GetControls</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

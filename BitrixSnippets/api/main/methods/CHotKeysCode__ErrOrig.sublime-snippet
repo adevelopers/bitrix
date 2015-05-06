@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHotKeysCode::ErrOrig()]]></content>
-	<tabTrigger>CHotKeysCode::ErrOrig</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIMMessenger::GetCachePath(${1:id})]]></content>
-	<tabTrigger>CIMMessenger::GetCachePath</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

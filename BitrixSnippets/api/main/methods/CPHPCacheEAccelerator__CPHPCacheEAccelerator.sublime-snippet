@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPHPCacheEAccelerator::CPHPCacheEAccelerator()]]></content>
-	<tabTrigger>CPHPCacheEAccelerator::CPHPCacheEAccelerator</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CWizardBase::CWizardBase(${1:wizardName},${2:package})]]></content>
-	<tabTrigger>CWizardBase::CWizardBase</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

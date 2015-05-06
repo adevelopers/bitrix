@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockProperty::_FileMan_GetUserTypeDescription()]]></content>
-	<tabTrigger>CIBlockProperty::_FileMan_GetUserTypeDescription</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

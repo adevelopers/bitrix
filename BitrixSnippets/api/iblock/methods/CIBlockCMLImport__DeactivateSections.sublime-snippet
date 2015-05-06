@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockCMLImport::DeactivateSections(${1:action})]]></content>
-	<tabTrigger>CIBlockCMLImport::DeactivateSections</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

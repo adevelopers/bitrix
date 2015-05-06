@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockSection::GetCount(${1:\$arFilter=Array()})]]></content>
-	<tabTrigger>CIBlockSection::GetCount</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

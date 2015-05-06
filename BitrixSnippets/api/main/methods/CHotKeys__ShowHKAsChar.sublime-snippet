@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHotKeys::ShowHKAsChar(${1:hotKeysString})]]></content>
-	<tabTrigger>CHotKeys::ShowHKAsChar</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

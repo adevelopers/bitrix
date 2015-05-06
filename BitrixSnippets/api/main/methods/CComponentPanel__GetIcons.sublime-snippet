@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CComponentPanel::GetIcons()]]></content>
-	<tabTrigger>CComponentPanel::GetIcons</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

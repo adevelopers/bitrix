@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[onSaleDeliveryHandlersBuildList]]></content>
-	<tabTrigger>onSaleDeliveryHandlersBuildList</tabTrigger>
-	<description>Bitrix CSaleDeliveryHandler::__getRegisteredHandlers</description>
-	<scope>source.php</scope>
-</snippet>

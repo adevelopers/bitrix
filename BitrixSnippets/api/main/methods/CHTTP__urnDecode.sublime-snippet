@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHTTP::urnDecode(${1:str},${2:\$charset = false})]]></content>
-	<tabTrigger>CHTTP::urnDecode</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

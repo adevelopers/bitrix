@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnOrderRecurringSendEmail]]></content>
-	<tabTrigger>OnOrderRecurringSendEmail</tabTrigger>
-	<description>Bitrix CSaleRecurring::NextPayment</description>
-	<scope>source.php</scope>
-</snippet>

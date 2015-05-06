@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CUpdatesXML::CUpdatesXML(${1:\$TrimWhiteSpace = True})]]></content>
-	<tabTrigger>CUpdatesXML::CUpdatesXML</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

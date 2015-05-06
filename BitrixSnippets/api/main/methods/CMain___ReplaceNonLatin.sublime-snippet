@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CMain::_ReplaceNonLatin(${1:str})]]></content>
-	<tabTrigger>CMain::_ReplaceNonLatin</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

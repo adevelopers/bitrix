@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFileMan::GetStrFileSize(${1:size})]]></content>
-	<tabTrigger>CFileMan::GetStrFileSize</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

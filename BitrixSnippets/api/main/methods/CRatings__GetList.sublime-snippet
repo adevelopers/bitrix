@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CRatings::GetList(${1:\$arSort=array()},${2:\$arFilter=Array()})]]></content>
-	<tabTrigger>CRatings::GetList</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnFileCopy]]></content>
-	<tabTrigger>OnFileCopy</tabTrigger>
-	<description>Bitrix CFile::CopyFile</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CUpdateSystem::IsInCommonKernel()]]></content>
-	<tabTrigger>CUpdateSystem::IsInCommonKernel</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

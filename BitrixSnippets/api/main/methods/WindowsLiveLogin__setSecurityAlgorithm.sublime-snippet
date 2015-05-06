@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WindowsLiveLogin::setSecurityAlgorithm(${1:securityalgorithm})]]></content>
-	<tabTrigger>WindowsLiveLogin::setSecurityAlgorithm</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

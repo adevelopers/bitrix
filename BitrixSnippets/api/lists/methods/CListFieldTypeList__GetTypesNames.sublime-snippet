@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CListFieldTypeList::GetTypesNames()]]></content>
-	<tabTrigger>CListFieldTypeList::GetTypesNames</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CTestAttempt::IsTestFailed(${1:ATTEMPT_ID},${2:PERCENT})]]></content>
-	<tabTrigger>CTestAttempt::IsTestFailed</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

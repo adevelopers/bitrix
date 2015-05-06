@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CTableSchema::OnGetTableSchema()]]></content>
-	<tabTrigger>CTableSchema::OnGetTableSchema</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

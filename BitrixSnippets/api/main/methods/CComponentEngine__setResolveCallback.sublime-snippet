@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CComponentEngine::setResolveCallback(${1:resolveCallback})]]></content>
-	<tabTrigger>CComponentEngine::setResolveCallback</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

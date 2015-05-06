@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CTar::openRead(${1:file})]]></content>
-	<tabTrigger>CTar::openRead</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

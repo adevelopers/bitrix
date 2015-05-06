@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAdminMenu::ActiveIcon()]]></content>
-	<tabTrigger>CAdminMenu::ActiveIcon</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

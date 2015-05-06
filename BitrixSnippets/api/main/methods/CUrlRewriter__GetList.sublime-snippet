@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CUrlRewriter::GetList(${1:\$arFilter = array()},${2:\$arOrder = array()})]]></content>
-	<tabTrigger>CUrlRewriter::GetList</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

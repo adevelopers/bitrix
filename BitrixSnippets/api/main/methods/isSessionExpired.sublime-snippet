@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[isSessionExpired()]]></content>
-	<tabTrigger>isSessionExpired</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

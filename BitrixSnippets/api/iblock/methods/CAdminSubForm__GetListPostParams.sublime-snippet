@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAdminSubForm::GetListPostParams(${1:\$boolType = false},${2:\$boolJS = false})]]></content>
-	<tabTrigger>CAdminSubForm::GetListPostParams</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

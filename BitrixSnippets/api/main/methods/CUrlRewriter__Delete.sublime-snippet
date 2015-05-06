@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CUrlRewriter::Delete(${1:arFilter})]]></content>
-	<tabTrigger>CUrlRewriter::Delete</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

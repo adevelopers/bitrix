@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CMobile::setApiVersion(${1:apiVersion})]]></content>
-	<tabTrigger>CMobile::setApiVersion</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CDatabase::ForSqlLike(${1:strValue},${2:\$iMaxLength = 0})]]></content>
-	<tabTrigger>CDatabase::ForSqlLike</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSaleAffiliateTier::Add(${1:arFields})]]></content>
-	<tabTrigger>CSaleAffiliateTier::Add</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

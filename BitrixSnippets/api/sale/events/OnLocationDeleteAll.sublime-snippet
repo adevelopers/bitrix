@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnLocationDeleteAll]]></content>
-	<tabTrigger>OnLocationDeleteAll</tabTrigger>
-	<description>Bitrix CSaleLocation::DeleteAll</description>
-	<scope>source.php</scope>
-</snippet>

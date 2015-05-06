@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSnippets::DisplayJSGroups(${1:template},${2:\$ar = array()})]]></content>
-	<tabTrigger>CSnippets::DisplayJSGroups</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

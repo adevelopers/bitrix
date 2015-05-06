@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CRatingRulesMain::err_mess()]]></content>
-	<tabTrigger>CRatingRulesMain::err_mess</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

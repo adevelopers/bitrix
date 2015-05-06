@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPerfomanceHit::Clear()]]></content>
-	<tabTrigger>CPerfomanceHit::Clear</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

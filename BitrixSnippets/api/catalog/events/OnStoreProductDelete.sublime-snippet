@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnStoreProductDelete]]></content>
-	<tabTrigger>OnStoreProductDelete</tabTrigger>
-	<description>Bitrix CCatalogStoreProductAll::Delete</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlock::_Upper(${1:str})]]></content>
-	<tabTrigger>CIBlock::_Upper</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

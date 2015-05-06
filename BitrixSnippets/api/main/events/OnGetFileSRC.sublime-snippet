@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnGetFileSRC]]></content>
-	<tabTrigger>OnGetFileSRC</tabTrigger>
-	<description>Bitrix CFile::GetFileSRC</description>
-	<scope>source.php</scope>
-</snippet>

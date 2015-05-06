@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSite::SelectBoxMulti(${1:sFieldName},${2:Value})]]></content>
-	<tabTrigger>CSite::SelectBoxMulti</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

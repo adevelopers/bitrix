@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSite::IsDistinctDocRoots(${1:\$arFilter=array()})]]></content>
-	<tabTrigger>CSite::IsDistinctDocRoots</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

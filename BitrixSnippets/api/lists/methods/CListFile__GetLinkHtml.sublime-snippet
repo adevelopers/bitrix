@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CListFile::GetLinkHtml(${1:\$params = array()})]]></content>
-	<tabTrigger>CListFile::GetLinkHtml</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

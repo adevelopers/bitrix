@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPushManager::AddQueue(${1:arParams})]]></content>
-	<tabTrigger>CPushManager::AddQueue</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

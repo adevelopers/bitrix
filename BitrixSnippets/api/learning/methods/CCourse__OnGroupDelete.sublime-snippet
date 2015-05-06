@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCourse::OnGroupDelete(${1:GROUP_ID})]]></content>
-	<tabTrigger>CCourse::OnGroupDelete</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

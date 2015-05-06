@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnSaleCancelOrder]]></content>
-	<tabTrigger>OnSaleCancelOrder</tabTrigger>
-	<description>Bitrix CSaleOrder::CancelOrder</description>
-	<scope>source.php</scope>
-</snippet>

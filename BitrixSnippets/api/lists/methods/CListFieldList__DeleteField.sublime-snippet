@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CListFieldList::DeleteField(${1:field_id})]]></content>
-	<tabTrigger>CListFieldList::DeleteField</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

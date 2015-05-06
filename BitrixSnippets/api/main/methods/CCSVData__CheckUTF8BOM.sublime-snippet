@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCSVData::CheckUTF8BOM()]]></content>
-	<tabTrigger>CCSVData::CheckUTF8BOM</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

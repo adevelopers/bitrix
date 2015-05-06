@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAdminSubForm::GetListUrl(${1:\$boolFull = false})]]></content>
-	<tabTrigger>CAdminSubForm::GetListUrl</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

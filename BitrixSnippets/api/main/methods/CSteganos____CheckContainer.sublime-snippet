@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSteganos::__CheckContainer()]]></content>
-	<tabTrigger>CSteganos::__CheckContainer</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

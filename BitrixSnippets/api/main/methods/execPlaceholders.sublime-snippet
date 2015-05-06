@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[execPlaceholders(${1:matches})]]></content>
-	<tabTrigger>execPlaceholders</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

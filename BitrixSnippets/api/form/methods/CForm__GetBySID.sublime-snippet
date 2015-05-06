@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CForm::GetBySID(${1:SID})]]></content>
-	<tabTrigger>CForm::GetBySID</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

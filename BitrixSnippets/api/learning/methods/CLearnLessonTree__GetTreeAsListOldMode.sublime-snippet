@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLearnLessonTree::GetTreeAsListOldMode()]]></content>
-	<tabTrigger>CLearnLessonTree::GetTreeAsListOldMode</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

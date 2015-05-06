@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CMobile::getInstance()]]></content>
-	<tabTrigger>CMobile::getInstance</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

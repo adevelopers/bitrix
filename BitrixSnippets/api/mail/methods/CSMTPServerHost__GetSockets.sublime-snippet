@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSMTPServerHost::GetSockets()]]></content>
-	<tabTrigger>CSMTPServerHost::GetSockets</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

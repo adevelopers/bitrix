@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAdminSubList::__UpdateListUrlParams()]]></content>
-	<tabTrigger>CAdminSubList::__UpdateListUrlParams</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

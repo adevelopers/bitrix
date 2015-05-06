@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFileMan::OnModuleUpdate(${1:arParams})]]></content>
-	<tabTrigger>CFileMan::OnModuleUpdate</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

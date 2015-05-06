@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CMain::SetEditArea(${1:areaId},${2:arIcons})]]></content>
-	<tabTrigger>CMain::SetEditArea</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

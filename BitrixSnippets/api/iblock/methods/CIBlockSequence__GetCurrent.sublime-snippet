@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockSequence::GetCurrent()]]></content>
-	<tabTrigger>CIBlockSequence::GetCurrent</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

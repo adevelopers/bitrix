@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnAfterUserRegister]]></content>
-	<tabTrigger>OnAfterUserRegister</tabTrigger>
-	<description>Bitrix CUser::Register</description>
-	<scope>source.php</scope>
-</snippet>

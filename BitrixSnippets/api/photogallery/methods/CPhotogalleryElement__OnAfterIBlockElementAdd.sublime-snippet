@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPhotogalleryElement::OnAfterIBlockElementAdd(${1:res})]]></content>
-	<tabTrigger>CPhotogalleryElement::OnAfterIBlockElementAdd</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

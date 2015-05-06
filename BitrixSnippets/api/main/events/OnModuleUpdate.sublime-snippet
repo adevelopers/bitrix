@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnModuleUpdate]]></content>
-	<tabTrigger>OnModuleUpdate</tabTrigger>
-	<description>Bitrix CUpdateClientPartner::UpdateStepModules</description>
-	<scope>source.php</scope>
-</snippet>

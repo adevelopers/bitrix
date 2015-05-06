@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnGetOptimalPrice]]></content>
-	<tabTrigger>OnGetOptimalPrice</tabTrigger>
-	<description>Bitrix CCatalogProduct::GetOptimalPrice</description>
-	<scope>source.php</scope>
-</snippet>

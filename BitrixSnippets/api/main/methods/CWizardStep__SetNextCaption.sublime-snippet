@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CWizardStep::SetNextCaption(${1:caption})]]></content>
-	<tabTrigger>CWizardStep::SetNextCaption</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

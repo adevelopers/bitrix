@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAdminListPage::displayFilter()]]></content>
-	<tabTrigger>CAdminListPage::displayFilter</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

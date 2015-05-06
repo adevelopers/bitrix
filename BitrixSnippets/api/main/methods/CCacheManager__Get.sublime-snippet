@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCacheManager::Get(${1:uniqid})]]></content>
-	<tabTrigger>CCacheManager::Get</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

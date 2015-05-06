@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CImageUploader::CleanSavedData()]]></content>
-	<tabTrigger>CImageUploader::CleanSavedData</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

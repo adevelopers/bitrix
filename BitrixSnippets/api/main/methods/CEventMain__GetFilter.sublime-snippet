@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CEventMain::GetFilter()]]></content>
-	<tabTrigger>CEventMain::GetFilter</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

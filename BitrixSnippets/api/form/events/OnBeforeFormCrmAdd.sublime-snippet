@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnBeforeFormCrmAdd]]></content>
-	<tabTrigger>OnBeforeFormCrmAdd</tabTrigger>
-	<description>Bitrix CFormCrm::Add</description>
-	<scope>source.php</scope>
-</snippet>

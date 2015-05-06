@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCloudStorageUpload::Finish(${1:\$obBucket = null})]]></content>
-	<tabTrigger>CCloudStorageUpload::Finish</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

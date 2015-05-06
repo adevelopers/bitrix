@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAdminListColumnList::getFilterInput()]]></content>
-	<tabTrigger>CAdminListColumnList::getFilterInput</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

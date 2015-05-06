@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnBeforeCatalogStoreAdd]]></content>
-	<tabTrigger>OnBeforeCatalogStoreAdd</tabTrigger>
-	<description>Bitrix Add</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCSVDataSale::FetchDelimiter()]]></content>
-	<tabTrigger>CCSVDataSale::FetchDelimiter</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

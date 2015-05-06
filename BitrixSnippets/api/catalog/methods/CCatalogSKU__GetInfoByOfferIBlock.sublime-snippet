@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCatalogSKU::GetInfoByOfferIBlock(${1:intIBlockID})]]></content>
-	<tabTrigger>CCatalogSKU::GetInfoByOfferIBlock</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

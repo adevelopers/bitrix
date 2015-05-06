@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockCMLImport::CheckIfFileIsCML(${1:file_name})]]></content>
-	<tabTrigger>CIBlockCMLImport::CheckIfFileIsCML</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

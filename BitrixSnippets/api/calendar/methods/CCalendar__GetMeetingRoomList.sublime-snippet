@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCalendar::GetMeetingRoomList(${1:\$Params = array()})]]></content>
-	<tabTrigger>CCalendar::GetMeetingRoomList</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

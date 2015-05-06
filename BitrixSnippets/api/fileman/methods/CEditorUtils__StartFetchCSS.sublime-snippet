@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CEditorUtils::StartFetchCSS()]]></content>
-	<tabTrigger>CEditorUtils::StartFetchCSS</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

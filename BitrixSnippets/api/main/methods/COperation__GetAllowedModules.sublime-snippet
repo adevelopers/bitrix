@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COperation::GetAllowedModules()]]></content>
-	<tabTrigger>COperation::GetAllowedModules</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLearnParsePermissionsFromFilter::ParseRequestedOperations(${1:arFilter})]]></content>
-	<tabTrigger>CLearnParsePermissionsFromFilter::ParseRequestedOperations</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

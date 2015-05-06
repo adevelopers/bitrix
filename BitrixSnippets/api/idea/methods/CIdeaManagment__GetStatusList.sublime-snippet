@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIdeaManagment::GetStatusList()]]></content>
-	<tabTrigger>CIdeaManagment::GetStatusList</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

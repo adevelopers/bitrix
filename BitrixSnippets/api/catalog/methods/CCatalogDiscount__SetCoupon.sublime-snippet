@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCatalogDiscount::SetCoupon(${1:coupon})]]></content>
-	<tabTrigger>CCatalogDiscount::SetCoupon</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

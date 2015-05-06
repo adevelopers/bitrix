@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFileMan::UndoNewSection(${1:Params},${2:type})]]></content>
-	<tabTrigger>CFileMan::UndoNewSection</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

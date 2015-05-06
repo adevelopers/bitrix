@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSticker::GetBShowStickers()]]></content>
-	<tabTrigger>CSticker::GetBShowStickers</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

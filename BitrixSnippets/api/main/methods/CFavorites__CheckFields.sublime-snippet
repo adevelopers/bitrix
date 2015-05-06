@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFavorites::CheckFields(${1:arFields})]]></content>
-	<tabTrigger>CFavorites::CheckFields</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CControllerClientRequestFrom::CControllerClientRequestFrom()]]></content>
-	<tabTrigger>CControllerClientRequestFrom::CControllerClientRequestFrom</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

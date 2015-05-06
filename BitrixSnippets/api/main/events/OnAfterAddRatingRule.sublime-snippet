@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnAfterAddRatingRule]]></content>
-	<tabTrigger>OnAfterAddRatingRule</tabTrigger>
-	<description>Bitrix CRatingRule::Add</description>
-	<scope>source.php</scope>
-</snippet>

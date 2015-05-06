@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[_CFileTree::GetNextFile()]]></content>
-	<tabTrigger>_CFileTree::GetNextFile</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

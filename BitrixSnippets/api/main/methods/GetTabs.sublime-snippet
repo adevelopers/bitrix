@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTabs()]]></content>
-	<tabTrigger>GetTabs</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

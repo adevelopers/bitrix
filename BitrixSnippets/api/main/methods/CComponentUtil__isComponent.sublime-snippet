@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CComponentUtil::isComponent(${1:componentPath})]]></content>
-	<tabTrigger>CComponentUtil::isComponent</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

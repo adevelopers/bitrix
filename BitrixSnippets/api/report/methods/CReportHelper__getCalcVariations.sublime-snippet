@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CReportHelper::getCalcVariations()]]></content>
-	<tabTrigger>CReportHelper::getCalcVariations</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

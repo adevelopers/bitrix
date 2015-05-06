@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CDatabase::StopUsingMasterOnly()]]></content>
-	<tabTrigger>CDatabase::StopUsingMasterOnly</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

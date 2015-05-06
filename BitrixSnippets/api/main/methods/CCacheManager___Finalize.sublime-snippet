@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCacheManager::_Finalize()]]></content>
-	<tabTrigger>CCacheManager::_Finalize</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

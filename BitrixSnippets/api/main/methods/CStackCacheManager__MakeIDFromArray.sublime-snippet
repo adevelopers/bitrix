@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CStackCacheManager::MakeIDFromArray(${1:arVals})]]></content>
-	<tabTrigger>CStackCacheManager::MakeIDFromArray</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

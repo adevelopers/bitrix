@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSiteCheckerTest::OpenLog(${1:\$continue = false})]]></content>
-	<tabTrigger>CSiteCheckerTest::OpenLog</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

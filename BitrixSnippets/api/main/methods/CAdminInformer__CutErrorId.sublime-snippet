@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAdminInformer::CutErrorId(${1:sError})]]></content>
-	<tabTrigger>CAdminInformer::CutErrorId</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

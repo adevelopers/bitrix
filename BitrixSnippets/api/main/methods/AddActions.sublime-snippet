@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddActions(${1:aActions})]]></content>
-	<tabTrigger>AddActions</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

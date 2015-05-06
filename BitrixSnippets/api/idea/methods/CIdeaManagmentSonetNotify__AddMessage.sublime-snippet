@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIdeaManagmentSonetNotify::AddMessage()]]></content>
-	<tabTrigger>CIdeaManagmentSonetNotify::AddMessage</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

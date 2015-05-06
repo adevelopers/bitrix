@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLAnswer::Delete(${1:ID})]]></content>
-	<tabTrigger>CLAnswer::Delete</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

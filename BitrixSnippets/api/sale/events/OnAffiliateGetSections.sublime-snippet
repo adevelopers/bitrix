@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnAffiliateGetSections]]></content>
-	<tabTrigger>OnAffiliateGetSections</tabTrigger>
-	<description>Bitrix CSaleAffiliate::CalculateAffiliate</description>
-	<scope>source.php</scope>
-</snippet>

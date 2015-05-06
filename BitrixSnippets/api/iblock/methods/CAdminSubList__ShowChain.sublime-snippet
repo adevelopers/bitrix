@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAdminSubList::ShowChain(${1:chain})]]></content>
-	<tabTrigger>CAdminSubList::ShowChain</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CListField::GetLabel()]]></content>
-	<tabTrigger>CListField::GetLabel</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

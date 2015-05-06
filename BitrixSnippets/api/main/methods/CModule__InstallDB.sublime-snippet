@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CModule::InstallDB()]]></content>
-	<tabTrigger>CModule::InstallDB</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

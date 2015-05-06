@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LangSubst(${1:lang})]]></content>
-	<tabTrigger>LangSubst</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

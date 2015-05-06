@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnBeforeLangDelete]]></content>
-	<tabTrigger>OnBeforeLangDelete</tabTrigger>
-	<description>Bitrix CSite::Delete</description>
-	<scope>source.php</scope>
-</snippet>

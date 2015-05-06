@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIMMessage::SetUnreadCounter(${1:userId})]]></content>
-	<tabTrigger>CIMMessage::SetUnreadCounter</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

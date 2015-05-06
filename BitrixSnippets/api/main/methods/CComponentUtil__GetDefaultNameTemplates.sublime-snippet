@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CComponentUtil::GetDefaultNameTemplates()]]></content>
-	<tabTrigger>CComponentUtil::GetDefaultNameTemplates</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

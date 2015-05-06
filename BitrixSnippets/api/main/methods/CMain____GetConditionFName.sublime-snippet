@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CMain::__GetConditionFName()]]></content>
-	<tabTrigger>CMain::__GetConditionFName</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

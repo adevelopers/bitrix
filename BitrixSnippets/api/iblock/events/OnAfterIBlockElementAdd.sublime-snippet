@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnAfterIBlockElementAdd]]></content>
-	<tabTrigger>OnAfterIBlockElementAdd</tabTrigger>
-	<description>Bitrix CIBlockElement::Add</description>
-	<scope>source.php</scope>
-</snippet>

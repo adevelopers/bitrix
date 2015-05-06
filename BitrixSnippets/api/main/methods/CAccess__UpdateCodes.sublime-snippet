@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAccess::UpdateCodes(${1:\$arParams=false})]]></content>
-	<tabTrigger>CAccess::UpdateCodes</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

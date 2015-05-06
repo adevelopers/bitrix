@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSnippets::GetDefaultFileName(${1:path})]]></content>
-	<tabTrigger>CSnippets::GetDefaultFileName</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

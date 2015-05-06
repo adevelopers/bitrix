@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSMTPConnection::Disconnect()]]></content>
-	<tabTrigger>CSMTPConnection::Disconnect</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

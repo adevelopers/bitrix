@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CBXSanitizer::UpdateTags(${1:arTags})]]></content>
-	<tabTrigger>CBXSanitizer::UpdateTags</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

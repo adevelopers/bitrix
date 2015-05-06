@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CRsaProvider::Keygen(${1:\$keylen=false})]]></content>
-	<tabTrigger>CRsaProvider::Keygen</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

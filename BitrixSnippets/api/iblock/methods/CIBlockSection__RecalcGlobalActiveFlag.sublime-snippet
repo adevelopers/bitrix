@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockSection::RecalcGlobalActiveFlag(${1:arSection})]]></content>
-	<tabTrigger>CIBlockSection::RecalcGlobalActiveFlag</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

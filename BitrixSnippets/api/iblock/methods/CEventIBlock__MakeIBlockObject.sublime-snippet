@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CEventIBlock::MakeIBlockObject()]]></content>
-	<tabTrigger>CEventIBlock::MakeIBlockObject</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

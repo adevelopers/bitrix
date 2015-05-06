@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPageTemplate::GetDescription()]]></content>
-	<tabTrigger>CPageTemplate::GetDescription</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

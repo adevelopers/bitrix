@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIdeaManagment::getInstance()]]></content>
-	<tabTrigger>CIdeaManagment::getInstance</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

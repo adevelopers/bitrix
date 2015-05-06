@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CWizardStep::GetCancelStepID()]]></content>
-	<tabTrigger>CWizardStep::GetCancelStepID</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

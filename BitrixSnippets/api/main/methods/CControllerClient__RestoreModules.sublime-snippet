@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CControllerClient::RestoreModules()]]></content>
-	<tabTrigger>CControllerClient::RestoreModules</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

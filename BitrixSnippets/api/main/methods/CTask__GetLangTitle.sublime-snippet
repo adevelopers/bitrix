@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CTask::GetLangTitle(${1:name})]]></content>
-	<tabTrigger>CTask::GetLangTitle</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

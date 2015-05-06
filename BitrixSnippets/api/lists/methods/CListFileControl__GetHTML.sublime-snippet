@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CListFileControl::GetHTML(${1:params})]]></content>
-	<tabTrigger>CListFileControl::GetHTML</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

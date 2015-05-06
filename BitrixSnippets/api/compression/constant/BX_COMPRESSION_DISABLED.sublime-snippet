@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BX_COMPRESSION_DISABLED]]></content>
-	<tabTrigger>BX_COMPRESSION_DISABLED</tabTrigger>
-	<description>Bitrix CCompress::CheckCanGzip</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSticker::GetUserName(${1:\$id = false})]]></content>
-	<tabTrigger>CSticker::GetUserName</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

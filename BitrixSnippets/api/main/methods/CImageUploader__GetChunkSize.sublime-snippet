@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CImageUploader::GetChunkSize()]]></content>
-	<tabTrigger>CImageUploader::GetChunkSize</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

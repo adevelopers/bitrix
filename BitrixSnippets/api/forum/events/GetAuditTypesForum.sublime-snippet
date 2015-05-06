@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAuditTypesForum]]></content>
-	<tabTrigger>GetAuditTypesForum</tabTrigger>
-	<description>Bitrix CEventForum::GetAuditTypes</description>
-	<scope>source.php</scope>
-</snippet>

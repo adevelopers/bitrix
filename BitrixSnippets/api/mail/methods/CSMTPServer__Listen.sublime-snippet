@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSMTPServer::Listen()]]></content>
-	<tabTrigger>CSMTPServer::Listen</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

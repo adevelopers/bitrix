@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SITE_CHARSET]]></content>
-	<tabTrigger>SITE_CHARSET</tabTrigger>
-	<description>Bitrix CBXPunycode::__construct</description>
-	<scope>source.php</scope>
-</snippet>

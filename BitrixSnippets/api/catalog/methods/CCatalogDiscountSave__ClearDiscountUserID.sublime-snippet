@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCatalogDiscountSave::ClearDiscountUserID()]]></content>
-	<tabTrigger>CCatalogDiscountSave::ClearDiscountUserID</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

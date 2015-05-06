@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHTMLPagesCache::startCaching()]]></content>
-	<tabTrigger>CHTMLPagesCache::startCaching</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CTar::SkipTo(${1:Block})]]></content>
-	<tabTrigger>CTar::SkipTo</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

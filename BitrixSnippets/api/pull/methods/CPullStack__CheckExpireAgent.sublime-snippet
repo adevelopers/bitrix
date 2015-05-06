@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPullStack::CheckExpireAgent()]]></content>
-	<tabTrigger>CPullStack::CheckExpireAgent</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WLL_User::getId()]]></content>
-	<tabTrigger>WLL_User::getId</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

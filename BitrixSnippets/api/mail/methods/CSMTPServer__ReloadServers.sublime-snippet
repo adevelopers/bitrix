@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSMTPServer::ReloadServers()]]></content>
-	<tabTrigger>CSMTPServer::ReloadServers</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

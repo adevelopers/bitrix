@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CTar::readHeader(${1:\$Long = false})]]></content>
-	<tabTrigger>CTar::readHeader</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

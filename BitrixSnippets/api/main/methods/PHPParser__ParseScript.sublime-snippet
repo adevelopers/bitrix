@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PHPParser::ParseScript(${1:scriptContent})]]></content>
-	<tabTrigger>PHPParser::ParseScript</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

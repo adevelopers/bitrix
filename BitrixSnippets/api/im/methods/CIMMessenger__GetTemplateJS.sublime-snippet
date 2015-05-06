@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIMMessenger::GetTemplateJS(${1:arParams},${2:arTemplate})]]></content>
-	<tabTrigger>CIMMessenger::GetTemplateJS</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

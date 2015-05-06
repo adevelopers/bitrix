@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CUserTypeDateTime::GetAdminListEditHTML(${1:arUserField},${2:arHtmlControl})]]></content>
-	<tabTrigger>CUserTypeDateTime::GetAdminListEditHTML</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

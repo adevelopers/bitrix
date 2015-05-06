@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BXDeleteFromMenu(${1:documentRoot},${2:path},${3:site})]]></content>
-	<tabTrigger>BXDeleteFromMenu</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

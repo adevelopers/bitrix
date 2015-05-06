@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CRatingRule::ApplyVetting(${1:arConfigs})]]></content>
-	<tabTrigger>CRatingRule::ApplyVetting</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

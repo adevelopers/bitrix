@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnBuildGlobalMenu]]></content>
-	<tabTrigger>OnBuildGlobalMenu</tabTrigger>
-	<description>Bitrix CAdminMenu::Init</description>
-	<scope>source.php</scope>
-</snippet>

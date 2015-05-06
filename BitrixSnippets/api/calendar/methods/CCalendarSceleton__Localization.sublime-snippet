@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCalendarSceleton::Localization()]]></content>
-	<tabTrigger>CCalendarSceleton::Localization</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

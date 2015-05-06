@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCloudStorageBucket::Add(${1:arFields})]]></content>
-	<tabTrigger>CCloudStorageBucket::Add</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

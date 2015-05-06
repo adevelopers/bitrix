@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CTar::flushBuffer()]]></content>
-	<tabTrigger>CTar::flushBuffer</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

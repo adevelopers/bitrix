@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLightHTMLEditor::Show(${1:arParams})]]></content>
-	<tabTrigger>CLightHTMLEditor::Show</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

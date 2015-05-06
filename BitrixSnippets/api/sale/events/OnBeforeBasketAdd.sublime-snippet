@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnBeforeBasketAdd]]></content>
-	<tabTrigger>OnBeforeBasketAdd</tabTrigger>
-	<description>Bitrix CSaleBasket::Add</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CBitrixComponent::setTemplateCachedData(${1:templateCachedData})]]></content>
-	<tabTrigger>CBitrixComponent::setTemplateCachedData</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

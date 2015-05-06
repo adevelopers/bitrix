@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CReportHelper::getOwnerId()]]></content>
-	<tabTrigger>CReportHelper::getOwnerId</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

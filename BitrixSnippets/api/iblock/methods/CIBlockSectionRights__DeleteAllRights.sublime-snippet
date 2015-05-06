@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockSectionRights::DeleteAllRights()]]></content>
-	<tabTrigger>CIBlockSectionRights::DeleteAllRights</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

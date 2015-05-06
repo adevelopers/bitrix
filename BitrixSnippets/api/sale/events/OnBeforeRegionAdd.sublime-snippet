@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnBeforeRegionAdd]]></content>
-	<tabTrigger>OnBeforeRegionAdd</tabTrigger>
-	<description>Bitrix CSaleLocation::AddRegion</description>
-	<scope>source.php</scope>
-</snippet>

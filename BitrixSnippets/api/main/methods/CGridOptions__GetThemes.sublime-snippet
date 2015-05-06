@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CGridOptions::GetThemes(${1:path})]]></content>
-	<tabTrigger>CGridOptions::GetThemes</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

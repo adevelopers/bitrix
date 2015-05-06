@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CUser::SetUserGroupArray(${1:arr})]]></content>
-	<tabTrigger>CUser::SetUserGroupArray</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

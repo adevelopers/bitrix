@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CRsaSecurity::Possible()]]></content>
-	<tabTrigger>CRsaSecurity::Possible</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

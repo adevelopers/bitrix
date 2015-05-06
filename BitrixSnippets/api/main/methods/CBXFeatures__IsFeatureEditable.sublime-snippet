@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CBXFeatures::IsFeatureEditable(${1:featureId})]]></content>
-	<tabTrigger>CBXFeatures::IsFeatureEditable</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

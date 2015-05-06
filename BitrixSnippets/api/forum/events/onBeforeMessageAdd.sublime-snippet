@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[onBeforeMessageAdd]]></content>
-	<tabTrigger>onBeforeMessageAdd</tabTrigger>
-	<description>Bitrix CForumMessage::Add</description>
-	<scope>source.php</scope>
-</snippet>

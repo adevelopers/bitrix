@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[onAfterAjaxResponse]]></content>
-	<tabTrigger>onAfterAjaxResponse</tabTrigger>
-	<description>Bitrix ExecuteEvents</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CDirRealScan::Skip(${1:f})]]></content>
-	<tabTrigger>CDirRealScan::Skip</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

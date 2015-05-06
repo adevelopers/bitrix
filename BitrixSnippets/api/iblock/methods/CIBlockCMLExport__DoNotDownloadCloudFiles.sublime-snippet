@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockCMLExport::DoNotDownloadCloudFiles()]]></content>
-	<tabTrigger>CIBlockCMLExport::DoNotDownloadCloudFiles</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

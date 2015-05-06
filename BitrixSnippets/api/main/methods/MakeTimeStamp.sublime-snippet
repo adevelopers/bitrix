@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MakeTimeStamp(${1:datetime},${2:\$format=false})]]></content>
-	<tabTrigger>MakeTimeStamp</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

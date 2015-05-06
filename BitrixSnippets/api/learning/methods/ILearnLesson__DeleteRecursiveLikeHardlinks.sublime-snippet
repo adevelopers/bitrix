@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ILearnLesson::DeleteRecursiveLikeHardlinks(${1:id})]]></content>
-	<tabTrigger>ILearnLesson::DeleteRecursiveLikeHardlinks</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

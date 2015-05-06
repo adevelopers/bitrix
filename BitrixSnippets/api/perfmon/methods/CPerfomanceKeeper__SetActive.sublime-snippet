@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPerfomanceKeeper::SetActive(${1:\$bActive = false},${2:\$end_time = 0})]]></content>
-	<tabTrigger>CPerfomanceKeeper::SetActive</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

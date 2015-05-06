@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLearnCacheOfLessonTreeComponent::MarkAsClean()]]></content>
-	<tabTrigger>CLearnCacheOfLessonTreeComponent::MarkAsClean</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLanguage::GetLangSwitcherArray()]]></content>
-	<tabTrigger>CLanguage::GetLangSwitcherArray</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

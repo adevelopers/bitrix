@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CTimeZone::GetCookieValue()]]></content>
-	<tabTrigger>CTimeZone::GetCookieValue</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

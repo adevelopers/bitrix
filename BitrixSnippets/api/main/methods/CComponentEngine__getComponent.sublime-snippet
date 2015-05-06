@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CComponentEngine::getComponent()]]></content>
-	<tabTrigger>CComponentEngine::getComponent</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

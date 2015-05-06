@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CWizardBase::GetFinishButtonID()]]></content>
-	<tabTrigger>CWizardBase::GetFinishButtonID</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

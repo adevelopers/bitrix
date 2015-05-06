@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnBeforeShortUriDelete]]></content>
-	<tabTrigger>OnBeforeShortUriDelete</tabTrigger>
-	<description>Bitrix CBXAllShortUri::Delete</description>
-	<scope>source.php</scope>
-</snippet>

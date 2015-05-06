@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CForumTopic::GetSelectFields(${1:\$arAddParams = array()})]]></content>
-	<tabTrigger>CForumTopic::GetSelectFields</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

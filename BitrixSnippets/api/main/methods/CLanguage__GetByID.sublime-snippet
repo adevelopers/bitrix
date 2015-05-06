@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLanguage::GetByID(${1:ID})]]></content>
-	<tabTrigger>CLanguage::GetByID</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

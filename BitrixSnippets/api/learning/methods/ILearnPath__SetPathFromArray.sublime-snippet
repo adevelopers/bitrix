@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ILearnPath::SetPathFromArray(${1:arPath})]]></content>
-	<tabTrigger>ILearnPath::SetPathFromArray</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

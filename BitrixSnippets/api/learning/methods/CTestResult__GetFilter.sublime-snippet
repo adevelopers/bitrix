@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CTestResult::GetFilter(${1:arFilter})]]></content>
-	<tabTrigger>CTestResult::GetFilter</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

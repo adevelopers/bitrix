@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCalendar::GetSectionList(${1:\$Params = array()})]]></content>
-	<tabTrigger>CCalendar::GetSectionList</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

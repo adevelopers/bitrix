@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[onAfterUserDelete]]></content>
-	<tabTrigger>onAfterUserDelete</tabTrigger>
-	<description>Bitrix CForumUser::Delete</description>
-	<scope>source.php</scope>
-</snippet>

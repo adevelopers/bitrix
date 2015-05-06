@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFilemanSearch::CleanOldSearchResult()]]></content>
-	<tabTrigger>CFilemanSearch::CleanOldSearchResult</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockPropertyElementAutoComplete::GetLinkElement(${1:intElementID},${2:intIBlockID})]]></content>
-	<tabTrigger>CIBlockPropertyElementAutoComplete::GetLinkElement</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

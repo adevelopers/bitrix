@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFormValidator::GetSettingsArray(${1:arValidator},${2:strParams})]]></content>
-	<tabTrigger>CFormValidator::GetSettingsArray</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

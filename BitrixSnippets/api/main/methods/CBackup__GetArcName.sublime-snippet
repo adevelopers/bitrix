@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CBackup::GetArcName(${1:\$prefix = ''})]]></content>
-	<tabTrigger>CBackup::GetArcName</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

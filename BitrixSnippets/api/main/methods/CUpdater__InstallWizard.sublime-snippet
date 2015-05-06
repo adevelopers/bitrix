@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CUpdater::InstallWizard(${1:wizardName},${2:\$arDeleteFiles = array()})]]></content>
-	<tabTrigger>CUpdater::InstallWizard</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

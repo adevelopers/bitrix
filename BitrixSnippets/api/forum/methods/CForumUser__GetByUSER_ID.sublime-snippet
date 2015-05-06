@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CForumUser::GetByUSER_ID(${1:USER_ID})]]></content>
-	<tabTrigger>CForumUser::GetByUSER_ID</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

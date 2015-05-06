@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CVulnScanner::dependencyHave(${1:tokens},${2:type})]]></content>
-	<tabTrigger>CVulnScanner::dependencyHave</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

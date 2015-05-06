@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockCMLImport::CleanTempFiles()]]></content>
-	<tabTrigger>CIBlockCMLImport::CleanTempFiles</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnExtendBasketItems]]></content>
-	<tabTrigger>OnExtendBasketItems</tabTrigger>
-	<description>Bitrix CSaleDiscount::DoProcessOrder</description>
-	<scope>source.php</scope>
-</snippet>

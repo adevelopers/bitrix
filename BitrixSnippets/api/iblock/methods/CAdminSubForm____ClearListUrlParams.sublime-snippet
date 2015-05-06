@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAdminSubForm::__ClearListUrlParams()]]></content>
-	<tabTrigger>CAdminSubForm::__ClearListUrlParams</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

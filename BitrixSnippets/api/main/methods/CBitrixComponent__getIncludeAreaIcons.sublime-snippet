@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CBitrixComponent::getIncludeAreaIcons()]]></content>
-	<tabTrigger>CBitrixComponent::getIncludeAreaIcons</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

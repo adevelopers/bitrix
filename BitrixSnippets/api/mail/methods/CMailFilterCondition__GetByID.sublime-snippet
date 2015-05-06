@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CMailFilterCondition::GetByID(${1:ID})]]></content>
-	<tabTrigger>CMailFilterCondition::GetByID</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

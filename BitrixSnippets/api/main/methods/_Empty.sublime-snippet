@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[_Empty(${1:field})]]></content>
-	<tabTrigger>_Empty</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

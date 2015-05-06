@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCalendarEventHandlers::getEvent(${1:arParams})]]></content>
-	<tabTrigger>CCalendarEventHandlers::getEvent</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

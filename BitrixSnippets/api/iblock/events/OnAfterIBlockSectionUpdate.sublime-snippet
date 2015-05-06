@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnAfterIBlockSectionUpdate]]></content>
-	<tabTrigger>OnAfterIBlockSectionUpdate</tabTrigger>
-	<description>Bitrix CIBlockSection::Update</description>
-	<scope>source.php</scope>
-</snippet>

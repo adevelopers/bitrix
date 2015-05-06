@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIdeaManagment::GetCategoryList(${1:\$CategoryIB = false})]]></content>
-	<tabTrigger>CIdeaManagment::GetCategoryList</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

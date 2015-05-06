@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ILearnLesson::ListImmediateChilds(${1:lessonId})]]></content>
-	<tabTrigger>ILearnLesson::ListImmediateChilds</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

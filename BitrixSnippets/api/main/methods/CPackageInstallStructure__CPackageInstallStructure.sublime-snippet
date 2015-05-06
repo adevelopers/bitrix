@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPackageInstallStructure::CPackageInstallStructure()]]></content>
-	<tabTrigger>CPackageInstallStructure::CPackageInstallStructure</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

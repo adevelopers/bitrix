@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCacheManager::RegisterTag(${1:tag})]]></content>
-	<tabTrigger>CCacheManager::RegisterTag</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

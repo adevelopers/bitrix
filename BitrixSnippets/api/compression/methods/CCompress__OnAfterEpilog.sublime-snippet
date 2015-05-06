@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCompress::OnAfterEpilog()]]></content>
-	<tabTrigger>CCompress::OnAfterEpilog</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

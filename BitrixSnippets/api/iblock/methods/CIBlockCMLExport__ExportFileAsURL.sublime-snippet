@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockCMLExport::ExportFileAsURL()]]></content>
-	<tabTrigger>CIBlockCMLExport::ExportFileAsURL</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

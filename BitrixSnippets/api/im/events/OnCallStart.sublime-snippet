@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnCallStart]]></content>
-	<tabTrigger>OnCallStart</tabTrigger>
-	<description>Bitrix CIMCall::Invite</description>
-	<scope>source.php</scope>
-</snippet>

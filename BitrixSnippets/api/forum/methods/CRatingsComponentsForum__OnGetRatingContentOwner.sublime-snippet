@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CRatingsComponentsForum::OnGetRatingContentOwner(${1:arParams})]]></content>
-	<tabTrigger>CRatingsComponentsForum::OnGetRatingContentOwner</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

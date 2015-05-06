@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPageTemplate::IncludeLangFile(${1:filepath})]]></content>
-	<tabTrigger>CPageTemplate::IncludeLangFile</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

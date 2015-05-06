@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAdminMobileEdit::getCustomAttribs(${1:arField})]]></content>
-	<tabTrigger>CAdminMobileEdit::getCustomAttribs</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

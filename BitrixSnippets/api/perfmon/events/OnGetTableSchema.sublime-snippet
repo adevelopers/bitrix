@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnGetTableSchema]]></content>
-	<tabTrigger>OnGetTableSchema</tabTrigger>
-	<description>Bitrix CPerfomanceSchema::Init</description>
-	<scope>source.php</scope>
-</snippet>

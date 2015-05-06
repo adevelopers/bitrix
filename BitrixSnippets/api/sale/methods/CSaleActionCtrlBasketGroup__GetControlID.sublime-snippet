@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSaleActionCtrlBasketGroup::GetControlID()]]></content>
-	<tabTrigger>CSaleActionCtrlBasketGroup::GetControlID</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

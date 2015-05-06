@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPerfAccelAPC::CPerfAccelAPC()]]></content>
-	<tabTrigger>CPerfAccelAPC::CPerfAccelAPC</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

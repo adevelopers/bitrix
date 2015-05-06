@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCaptcha::SetCodeLength(${1:length})]]></content>
-	<tabTrigger>CCaptcha::SetCodeLength</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

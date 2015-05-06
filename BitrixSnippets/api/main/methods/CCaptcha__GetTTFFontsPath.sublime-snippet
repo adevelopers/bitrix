@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCaptcha::GetTTFFontsPath()]]></content>
-	<tabTrigger>CCaptcha::GetTTFFontsPath</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WLL_ConsentToken::getDelegationToken()]]></content>
-	<tabTrigger>WLL_ConsentToken::getDelegationToken</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ForumEventManager::ForumEventManager()]]></content>
-	<tabTrigger>ForumEventManager::ForumEventManager</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

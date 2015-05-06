@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CListField::GetSettings()]]></content>
-	<tabTrigger>CListField::GetSettings</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetOrder(${1:arOrder})]]></content>
-	<tabTrigger>SetOrder</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

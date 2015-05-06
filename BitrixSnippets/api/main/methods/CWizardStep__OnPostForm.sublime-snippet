@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CWizardStep::OnPostForm()]]></content>
-	<tabTrigger>CWizardStep::OnPostForm</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

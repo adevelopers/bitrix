@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSaleCondCtrlBasketFields::GetClassName()]]></content>
-	<tabTrigger>CSaleCondCtrlBasketFields::GetClassName</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnAfterCheckAllowVote]]></content>
-	<tabTrigger>OnAfterCheckAllowVote</tabTrigger>
-	<description>Bitrix CRatings::CheckAllowVote</description>
-	<scope>source.php</scope>
-</snippet>

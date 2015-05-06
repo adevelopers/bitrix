@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCatalogVat::Set(${1:arFields})]]></content>
-	<tabTrigger>CCatalogVat::Set</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

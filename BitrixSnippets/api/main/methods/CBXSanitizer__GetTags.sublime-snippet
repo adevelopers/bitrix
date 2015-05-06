@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CBXSanitizer::GetTags()]]></content>
-	<tabTrigger>CBXSanitizer::GetTags</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

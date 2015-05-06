@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CBXFavAdmMenu::GetEmptyMenuHTML()]]></content>
-	<tabTrigger>CBXFavAdmMenu::GetEmptyMenuHTML</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

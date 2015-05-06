@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPackageWelcome::CPackageWelcome(${1:package})]]></content>
-	<tabTrigger>CPackageWelcome::CPackageWelcome</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

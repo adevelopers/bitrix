@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BXClearCache(${1:\$full=false},${2:\$initdir=""})]]></content>
-	<tabTrigger>BXClearCache</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

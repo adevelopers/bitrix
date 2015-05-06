@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCacheManager::CleanAll()]]></content>
-	<tabTrigger>CCacheManager::CleanAll</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

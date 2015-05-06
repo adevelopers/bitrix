@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlock::GetAuditTypes()]]></content>
-	<tabTrigger>CIBlock::GetAuditTypes</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

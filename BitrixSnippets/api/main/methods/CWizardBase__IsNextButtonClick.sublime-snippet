@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CWizardBase::IsNextButtonClick()]]></content>
-	<tabTrigger>CWizardBase::IsNextButtonClick</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

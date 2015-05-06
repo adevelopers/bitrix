@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CList::GetNewID(${1:TEMP_ID})]]></content>
-	<tabTrigger>CList::GetNewID</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

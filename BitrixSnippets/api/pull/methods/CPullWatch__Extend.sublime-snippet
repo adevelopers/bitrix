@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPullWatch::Extend(${1:userId},${2:tag})]]></content>
-	<tabTrigger>CPullWatch::Extend</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CBitrixComponent::addChildEpilog(${1:epilogFile})]]></content>
-	<tabTrigger>CBitrixComponent::addChildEpilog</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAdminMobileFilter::getHtml(${1:arFields})]]></content>
-	<tabTrigger>CAdminMobileFilter::getHtml</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetUserProfileLink(${1:user_id},${2:title})]]></content>
-	<tabTrigger>GetUserProfileLink</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

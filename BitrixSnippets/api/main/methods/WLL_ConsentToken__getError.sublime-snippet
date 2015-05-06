@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WLL_ConsentToken::getError()]]></content>
-	<tabTrigger>WLL_ConsentToken::getError</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

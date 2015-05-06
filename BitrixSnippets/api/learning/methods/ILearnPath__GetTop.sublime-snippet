@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ILearnPath::GetTop()]]></content>
-	<tabTrigger>ILearnPath::GetTop</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

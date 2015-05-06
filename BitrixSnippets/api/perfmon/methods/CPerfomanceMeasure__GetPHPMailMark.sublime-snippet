@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPerfomanceMeasure::GetPHPMailMark()]]></content>
-	<tabTrigger>CPerfomanceMeasure::GetPHPMailMark</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

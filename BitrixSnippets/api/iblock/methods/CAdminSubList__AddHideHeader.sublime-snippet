@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAdminSubList::AddHideHeader(${1:strID})]]></content>
-	<tabTrigger>CAdminSubList::AddHideHeader</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

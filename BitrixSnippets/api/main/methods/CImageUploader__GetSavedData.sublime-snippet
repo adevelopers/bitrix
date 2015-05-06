@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CImageUploader::GetSavedData()]]></content>
-	<tabTrigger>CImageUploader::GetSavedData</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

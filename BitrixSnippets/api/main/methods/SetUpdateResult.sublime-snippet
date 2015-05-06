@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetUpdateResult()]]></content>
-	<tabTrigger>SetUpdateResult</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

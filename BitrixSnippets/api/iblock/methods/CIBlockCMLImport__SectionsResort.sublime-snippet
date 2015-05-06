@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIBlockCMLImport::SectionsResort()]]></content>
-	<tabTrigger>CIBlockCMLImport::SectionsResort</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

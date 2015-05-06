@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnOrderRemindSendEmail]]></content>
-	<tabTrigger>OnOrderRemindSendEmail</tabTrigger>
-	<description>Bitrix CSaleOrder::RemindPayment</description>
-	<scope>source.php</scope>
-</snippet>

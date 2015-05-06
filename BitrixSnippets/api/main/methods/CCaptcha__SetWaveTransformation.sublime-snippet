@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCaptcha::SetWaveTransformation(${1:bWaveTransformation})]]></content>
-	<tabTrigger>CCaptcha::SetWaveTransformation</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

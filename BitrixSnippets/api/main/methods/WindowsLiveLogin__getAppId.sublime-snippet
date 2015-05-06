@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WindowsLiveLogin::getAppId()]]></content>
-	<tabTrigger>WindowsLiveLogin::getAppId</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

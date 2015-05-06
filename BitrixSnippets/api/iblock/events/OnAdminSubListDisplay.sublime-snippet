@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnAdminSubListDisplay]]></content>
-	<tabTrigger>OnAdminSubListDisplay</tabTrigger>
-	<description>Bitrix CAdminSubList::Display</description>
-	<scope>source.php</scope>
-</snippet>

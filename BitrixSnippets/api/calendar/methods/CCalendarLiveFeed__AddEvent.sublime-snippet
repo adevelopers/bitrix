@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCalendarLiveFeed::AddEvent(${1:&arSocNetFeaturesSettings})]]></content>
-	<tabTrigger>CCalendarLiveFeed::AddEvent</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

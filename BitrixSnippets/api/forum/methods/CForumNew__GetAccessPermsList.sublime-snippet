@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CForumNew::GetAccessPermsList(${1:\$arOrder = array("ID"=>"ASC")},${2:\$arFilter = array()})]]></content>
-	<tabTrigger>CForumNew::GetAccessPermsList</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

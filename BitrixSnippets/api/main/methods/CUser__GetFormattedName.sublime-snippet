@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CUser::GetFormattedName(${1:\$bUseBreaks = true},${2:\$bHTMLSpec = true})]]></content>
-	<tabTrigger>CUser::GetFormattedName</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

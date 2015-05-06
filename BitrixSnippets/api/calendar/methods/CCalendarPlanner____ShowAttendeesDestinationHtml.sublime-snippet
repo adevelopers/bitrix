@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCalendarPlanner::__ShowAttendeesDestinationHtml(${1:\$Params = array()})]]></content>
-	<tabTrigger>CCalendarPlanner::__ShowAttendeesDestinationHtml</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

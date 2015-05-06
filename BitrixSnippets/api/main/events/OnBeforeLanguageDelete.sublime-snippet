@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnBeforeLanguageDelete]]></content>
-	<tabTrigger>OnBeforeLanguageDelete</tabTrigger>
-	<description>Bitrix CLanguage::Delete</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFileMan::SecurePathVar(${1:str})]]></content>
-	<tabTrigger>CFileMan::SecurePathVar</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

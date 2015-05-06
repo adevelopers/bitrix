@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCatalogDiscountSave::IsEnabled()]]></content>
-	<tabTrigger>CCatalogDiscountSave::IsEnabled</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

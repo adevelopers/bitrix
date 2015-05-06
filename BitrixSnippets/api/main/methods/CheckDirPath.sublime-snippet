@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CheckDirPath(${1:path},${2:\$bPermission=true})]]></content>
-	<tabTrigger>CheckDirPath</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CRsaSecurity::LoadKeys()]]></content>
-	<tabTrigger>CRsaSecurity::LoadKeys</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

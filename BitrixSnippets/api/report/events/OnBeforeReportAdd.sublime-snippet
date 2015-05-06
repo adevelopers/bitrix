@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnBeforeReportAdd]]></content>
-	<tabTrigger>OnBeforeReportAdd</tabTrigger>
-	<description>Bitrix CReport::Delete</description>
-	<scope>source.php</scope>
-</snippet>

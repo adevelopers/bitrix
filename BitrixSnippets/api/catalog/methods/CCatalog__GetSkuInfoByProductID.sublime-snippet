@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCatalog::GetSkuInfoByProductID(${1:ID})]]></content>
-	<tabTrigger>CCatalog::GetSkuInfoByProductID</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

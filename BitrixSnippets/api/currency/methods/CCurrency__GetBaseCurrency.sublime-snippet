@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCurrency::GetBaseCurrency()]]></content>
-	<tabTrigger>CCurrency::GetBaseCurrency</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSMTPConnection::__AuthLoginHandler()]]></content>
-	<tabTrigger>CSMTPConnection::__AuthLoginHandler</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

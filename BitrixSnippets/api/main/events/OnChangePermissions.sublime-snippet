@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnChangePermissions]]></content>
-	<tabTrigger>OnChangePermissions</tabTrigger>
-	<description>Bitrix CMain::RemoveFileAccessPermission</description>
-	<scope>source.php</scope>
-</snippet>

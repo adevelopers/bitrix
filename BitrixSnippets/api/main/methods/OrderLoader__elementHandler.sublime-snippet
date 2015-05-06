@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OrderLoader::elementHandler(${1:path},${2:attr})]]></content>
-	<tabTrigger>OrderLoader::elementHandler</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

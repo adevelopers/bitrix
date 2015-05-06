@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CTarCheck::extractFile()]]></content>
-	<tabTrigger>CTarCheck::extractFile</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

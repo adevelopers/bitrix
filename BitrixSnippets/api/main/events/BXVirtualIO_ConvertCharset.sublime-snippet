@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BXVirtualIO_ConvertCharset]]></content>
-	<tabTrigger>BXVirtualIO_ConvertCharset</tabTrigger>
-	<description>Bitrix ConvertCharset</description>
-	<scope>source.php</scope>
-</snippet>

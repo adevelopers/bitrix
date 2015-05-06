@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnIBlockPropertyDelete]]></content>
-	<tabTrigger>OnIBlockPropertyDelete</tabTrigger>
-	<description>Bitrix CIBlockProperty::Delete</description>
-	<scope>source.php</scope>
-</snippet>

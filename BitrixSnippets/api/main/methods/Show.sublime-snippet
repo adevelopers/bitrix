@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Show()]]></content>
-	<tabTrigger>Show</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetContents()]]></content>
-	<tabTrigger>GetContents</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

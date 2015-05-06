@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCalendarLiveFeed::OnSonetLogEntryMenuCreate(${1:arLogEvent})]]></content>
-	<tabTrigger>CCalendarLiveFeed::OnSonetLogEntryMenuCreate</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

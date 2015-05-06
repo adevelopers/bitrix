@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CWizardBase::GetPackage()]]></content>
-	<tabTrigger>CWizardBase::GetPackage</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

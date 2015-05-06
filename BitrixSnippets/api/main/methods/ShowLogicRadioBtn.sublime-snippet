@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ShowLogicRadioBtn(${1:\$FilterLogic="FILTER_logic"})]]></content>
-	<tabTrigger>ShowLogicRadioBtn</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

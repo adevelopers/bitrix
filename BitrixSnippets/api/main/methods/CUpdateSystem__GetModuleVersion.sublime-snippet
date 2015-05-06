@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CUpdateSystem::GetModuleVersion(${1:module})]]></content>
-	<tabTrigger>CUpdateSystem::GetModuleVersion</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

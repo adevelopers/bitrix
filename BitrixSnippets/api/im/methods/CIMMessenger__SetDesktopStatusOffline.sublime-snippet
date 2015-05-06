@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CIMMessenger::SetDesktopStatusOffline(${1:\$userId = null})]]></content>
-	<tabTrigger>CIMMessenger::SetDesktopStatusOffline</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

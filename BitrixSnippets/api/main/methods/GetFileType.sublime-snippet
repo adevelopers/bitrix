@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetFileType(${1:path})]]></content>
-	<tabTrigger>GetFileType</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

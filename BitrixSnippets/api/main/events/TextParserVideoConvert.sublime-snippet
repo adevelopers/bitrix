@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TextParserVideoConvert]]></content>
-	<tabTrigger>TextParserVideoConvert</tabTrigger>
-	<description>Bitrix CTextParser::convert_video</description>
-	<scope>source.php</scope>
-</snippet>

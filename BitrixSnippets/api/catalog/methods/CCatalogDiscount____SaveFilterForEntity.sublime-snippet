@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCatalogDiscount::__SaveFilterForEntity(${1:arParams})]]></content>
-	<tabTrigger>CCatalogDiscount::__SaveFilterForEntity</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

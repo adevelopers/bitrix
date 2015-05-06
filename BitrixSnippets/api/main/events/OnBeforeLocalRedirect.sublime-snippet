@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnBeforeLocalRedirect]]></content>
-	<tabTrigger>OnBeforeLocalRedirect</tabTrigger>
-	<description>Bitrix </description>
-	<scope>source.php</scope>
-</snippet>

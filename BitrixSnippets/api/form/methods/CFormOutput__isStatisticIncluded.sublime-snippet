@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFormOutput::isStatisticIncluded()]]></content>
-	<tabTrigger>CFormOutput::isStatisticIncluded</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

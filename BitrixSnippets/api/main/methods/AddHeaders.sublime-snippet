@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddHeaders(${1:aParams})]]></content>
-	<tabTrigger>AddHeaders</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

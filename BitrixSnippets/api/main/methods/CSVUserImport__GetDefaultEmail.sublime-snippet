@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSVUserImport::GetDefaultEmail()]]></content>
-	<tabTrigger>CSVUserImport::GetDefaultEmail</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CPackageSelectStructure::InitStep()]]></content>
-	<tabTrigger>CPackageSelectStructure::InitStep</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

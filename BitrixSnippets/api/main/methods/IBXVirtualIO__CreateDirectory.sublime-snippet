@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IBXVirtualIO::CreateDirectory(${1:path})]]></content>
-	<tabTrigger>IBXVirtualIO::CreateDirectory</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

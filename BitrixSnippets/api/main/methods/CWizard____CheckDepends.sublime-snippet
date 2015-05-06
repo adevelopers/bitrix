@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CWizard::__CheckDepends()]]></content>
-	<tabTrigger>CWizard::__CheckDepends</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

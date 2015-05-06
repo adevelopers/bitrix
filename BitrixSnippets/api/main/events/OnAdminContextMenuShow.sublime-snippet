@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnAdminContextMenuShow]]></content>
-	<tabTrigger>OnAdminContextMenuShow</tabTrigger>
-	<description>Bitrix CAdminContextMenu::Show</description>
-	<scope>source.php</scope>
-</snippet>

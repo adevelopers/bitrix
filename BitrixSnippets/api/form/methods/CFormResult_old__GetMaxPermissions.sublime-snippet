@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFormResult_old::GetMaxPermissions()]]></content>
-	<tabTrigger>CFormResult_old::GetMaxPermissions</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

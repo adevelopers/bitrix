@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[xmlize_xmldata(${1:data})]]></content>
-	<tabTrigger>xmlize_xmldata</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

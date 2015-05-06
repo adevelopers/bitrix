@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CVideoProperty::GetUploadDirPath()]]></content>
-	<tabTrigger>CVideoProperty::GetUploadDirPath</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CStackCacheManager::SetLength(${1:entity},${2:length})]]></content>
-	<tabTrigger>CStackCacheManager::SetLength</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

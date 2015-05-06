@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CControllerClientResponseTo::CControllerClientResponseTo(${1:\$oPacket = false})]]></content>
-	<tabTrigger>CControllerClientResponseTo::CControllerClientResponseTo</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

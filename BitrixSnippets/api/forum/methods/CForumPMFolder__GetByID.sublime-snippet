@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CForumPMFolder::GetByID(${1:ID})]]></content>
-	<tabTrigger>CForumPMFolder::GetByID</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

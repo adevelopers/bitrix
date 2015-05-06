@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLearnLesson::IsPublishProhibited(${1:in_lessonId},${2:in_contextCourseLessonId})]]></content>
-	<tabTrigger>CLearnLesson::IsPublishProhibited</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

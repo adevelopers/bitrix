@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAdminSubList::GetListFieldNames()]]></content>
-	<tabTrigger>CAdminSubList::GetListFieldNames</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

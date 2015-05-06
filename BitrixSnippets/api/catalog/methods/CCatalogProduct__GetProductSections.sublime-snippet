@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCatalogProduct::GetProductSections(${1:ID})]]></content>
-	<tabTrigger>CCatalogProduct::GetProductSections</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

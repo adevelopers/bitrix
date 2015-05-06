@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFilterUnquotableWords::CheckPattern(${1:sPattern},${2:&\$sError})]]></content>
-	<tabTrigger>CFilterUnquotableWords::CheckPattern</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

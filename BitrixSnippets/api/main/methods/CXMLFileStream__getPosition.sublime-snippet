@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CXMLFileStream::getPosition()]]></content>
-	<tabTrigger>CXMLFileStream::getPosition</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

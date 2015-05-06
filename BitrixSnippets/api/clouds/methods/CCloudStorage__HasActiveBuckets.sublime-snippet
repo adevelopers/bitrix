@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CCloudStorage::HasActiveBuckets()]]></content>
-	<tabTrigger>CCloudStorage::HasActiveBuckets</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CSmile::import(${1:arParams})]]></content>
-	<tabTrigger>CSmile::import</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

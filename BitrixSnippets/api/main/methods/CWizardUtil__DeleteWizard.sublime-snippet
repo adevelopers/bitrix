@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CWizardUtil::DeleteWizard(${1:wizardName})]]></content>
-	<tabTrigger>CWizardUtil::DeleteWizard</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

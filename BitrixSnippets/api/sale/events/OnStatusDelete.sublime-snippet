@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnStatusDelete]]></content>
-	<tabTrigger>OnStatusDelete</tabTrigger>
-	<description>Bitrix CSaleStatus::Delete</description>
-	<scope>source.php</scope>
-</snippet>

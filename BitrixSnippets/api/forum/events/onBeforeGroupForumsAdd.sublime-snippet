@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[onBeforeGroupForumsAdd]]></content>
-	<tabTrigger>onBeforeGroupForumsAdd</tabTrigger>
-	<description>Bitrix CForumGroup::Add</description>
-	<scope>source.php</scope>
-</snippet>

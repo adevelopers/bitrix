@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFormOutput::CAllFormOutput()]]></content>
-	<tabTrigger>CFormOutput::CAllFormOutput</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFile::GetContentType(${1:path},${2:\$bPhysicalName = false})]]></content>
-	<tabTrigger>CFile::GetContentType</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

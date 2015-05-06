@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CImageUploader::GetMimeType(${1:fileName})]]></content>
-	<tabTrigger>CImageUploader::GetMimeType</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

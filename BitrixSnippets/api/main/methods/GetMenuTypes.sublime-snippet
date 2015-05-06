@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMenuTypes(${1:\$site=false},${2:\$default_value=false})]]></content>
-	<tabTrigger>GetMenuTypes</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

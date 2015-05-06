@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CBaseSaleReportHelper::setDefaultSiteId(${1:siteId})]]></content>
-	<tabTrigger>CBaseSaleReportHelper::setDefaultSiteId</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

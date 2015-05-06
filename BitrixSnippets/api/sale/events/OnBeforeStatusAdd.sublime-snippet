@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnBeforeStatusAdd]]></content>
-	<tabTrigger>OnBeforeStatusAdd</tabTrigger>
-	<description>Bitrix CSaleStatus::Add</description>
-	<scope>source.php</scope>
-</snippet>

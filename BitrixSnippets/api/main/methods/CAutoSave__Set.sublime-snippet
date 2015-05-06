@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAutoSave::Set(${1:data})]]></content>
-	<tabTrigger>CAutoSave::Set</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

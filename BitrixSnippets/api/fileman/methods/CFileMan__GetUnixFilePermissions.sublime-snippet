@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CFileMan::GetUnixFilePermissions(${1:file})]]></content>
-	<tabTrigger>CFileMan::GetUnixFilePermissions</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHTMLPagesCache::GetOptions(${1:\$bCheck = false})]]></content>
-	<tabTrigger>CHTMLPagesCache::GetOptions</tabTrigger>
-	<description>Bitrix API</description>
-	<scope>source.php</scope>
-</snippet>
