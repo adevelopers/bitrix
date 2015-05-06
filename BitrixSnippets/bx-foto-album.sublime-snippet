@@ -1,0 +1,45 @@
+<snippet>
+	<content><![CDATA[
+
+// result_modifier.php		
+// подключаем фотоальбом
+				if (!empty(\$arResult["PROPERTIES"]["P_FOTO_ALBUM"]["VALUE"]))
+				{	
+						\$album_id = \$arResult["PROPERTIES"]["P_FOTO_ALBUM"]["VALUE"];
+						\$resFotos = CIBlockElement::GetList(array(),  array("SECTION_ID"=>\$album_id, "ACTIVE"=>"Y",
+							"IBLOCK_ID"=>intval(\$arResult["PROPERTIES"]["P_FOTO_ALBUM"]["LINK_IBLOCK_ID"]) 
+							), false,array(), array("ID", "IBLOCK_ID", "NAME","DETAIL_TEXT","PREVIEW_TEXT","PREVIEW_PICTURE","DETAIL_PICTURE"));
+					
+						\$resAlbum = CIBlockSection::GetByID(\$album_id);
+						if(\$arAlbum = \$resAlbum->GetNext())
+  							\$arResult["FOTO_ALBUM_NAME"] = \$arAlbum['NAME'];
+
+
+
+						while (\$arFotos = \$resFotos->GetNext())
+						{
+							\$arFotos["DETAIL_PICTURE"]= CFile::GetFileArray(\$arFotos["DETAIL_PICTURE"]);
+							\$arFotos["PREVIEW_PICTURE"]= CFile::GetFileArray(\$arFotos["PREVIEW_PICTURE"]);
+							\$arResult["FOTO_ALBUM"][] = \$arFotos;
+						}
+				}
+
+
+// template.php
+   			<ul id="foto-album">
+			<? foreach (\$arResult["FOTO_ALBUM"] as \$key => \$foto):?>
+			<li>
+				<a href="<?=\$foto["DETAIL_PICTURE"]["SRC"];?>" class="fancybox" rel="gallery">
+					<img src="<?=\$foto["PREVIEW_PICTURE"]["SRC"];?>" width="100" height="100" alt="" title="" rel="gallery" />
+				</a>
+			</li>
+			<? endforeach;?>
+			</ul>
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-foto-album</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

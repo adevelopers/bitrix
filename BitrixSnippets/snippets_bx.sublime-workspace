@@ -1,0 +1,627 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"bx-u",
+				"bx-update	bx-update-element"
+			],
+			[
+				"bx-ad",
+				"bx-add-element	bx-add-element"
+			],
+			[
+				"preg_",
+				"preg_match"
+			],
+			[
+				"ar",
+				"arDates"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"exper",
+				"expertName"
+			],
+			[
+				"text",
+				"text_obzor"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"bx-ge",
+				"bx-get-elements	bx-elements"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"bx-get",
+				"bx-get-section	bs-get-section"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"bx-in",
+				"bx-include-module	bx-include-module"
+			],
+			[
+				"bx-n",
+				"bx-news-list	Bitrix news.list"
+			],
+			[
+				"mt",
+				"margin-bottom"
+			],
+			[
+				"bx-d",
+				"bx-detail-url	bx-detail-url"
+			],
+			[
+				"DETA",
+				"DETAIL_TEXT"
+			],
+			[
+				"bx-cr",
+				"bx-foto-crop	bx-foto-crop"
+			],
+			[
+				"arP",
+				"arParams"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bx-menu",
+				"bx-menu-sections	bitrix-menu.sections"
+			],
+			[
+				"PROP",
+				"PROPERTIES"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"bx-el",
+				"bx-get-elements	bx-elements"
+			],
+			[
+				"PR",
+				"PROPERTY_P_CITY"
+			],
+			[
+				"ex",
+				"exFILTER"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"html",
+				"html_entity_decode"
+			],
+			[
+				"bx-g",
+				"bx-get-elements	bx-elements"
+			],
+			[
+				"bx-det",
+				"bx-detail	bx-detail"
+			],
+			[
+				"bx",
+				"bx-news-list	Bitrix news.list"
+			],
+			[
+				"bx-f",
+				"bx-foto-crop	bx-foto-crop"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"stri",
+				"strip_tags"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"css-",
+				"css-coomment	css-comment"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bx-is",
+				"bx-isAdmin	bx-isAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/vip/bx-vip-auth-line.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 327,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bx-uf.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 821,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: bx-vi",
+				"Snippet: bx-vip-auth-line"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/adeveloper/AppData/Local/Temp/scp56326/home/a/adeve/adeveloper.ru/public_html/bitrix/templates/traders_vip/header.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp46901/home/a/adeve/adeveloper.ru/public_html/fx/journal/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp58372/home/a/adeve/adeveloper.ru/public_html/bitrix/templates/invest/header.php",
+		"/C/home/02_soft/sublime 3/Data/Packages/User/Bitrix/bx-authorized.sublime-snippet",
+		"/C/home/02_soft/sublime 3/Data/Packages/User/Bitrix/templates/vip/bx-vip-auth-line.sublime-snippet",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp16674/home/a/adeve/adeveloper.ru/public_html/forex/index.php",
+		"/C/web/home/adeve/mql/review.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp20681/home/k/kravetz/kravetz.ru/public_html/forms/conference/2015_summer/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp36890/home/a/adeve/adeveloper.ru/public_html/fx/opt_parser.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp26650/home/a/adeve/adeveloper.ru/public_html/forex/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp29965/home/a/adeve/adeveloper.ru/public_html/mql/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp14340/home/a/adeve/adeveloper.ru/public_html/fx/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp13273/home/a/adeve/adeveloper.ru/public_html/fx/pay.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp29951/home/a/adeve/adeveloper.ru/public_html/fx/result.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp11447/home/a/adeve/adeveloper.ru/public_html/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp34176/home/a/adeve/adeveloper.ru/public_html/bitrix/templates/invest/footer.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp34247/home/a/adeve/adeveloper.ru/public_html/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp56588/home/a/adeve/adeveloper.ru/public_html/bitrix/templates/mql/header.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp08633/home/a/adeve/adeveloper.ru/public_html/bitrix/templates/mql/components/bitrix/news.list/mql_files/template.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp19038/home/a/adeve/adeveloper.ru/public_html/mql/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp03010/home/a/adeve/adeveloper.ru/public_html/mql/.access.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp53491/home/a/adeve/adeveloper.ru/public_html/fx/opt_parser.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp07864/home/a/adeve/adeveloper.ru/public_html/fx/investing.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp58827/home/a/adeve/adeveloper.ru/public_html/fx/investing.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp17240/home/a/adeve/adeveloper.ru/public_html/fx/opt_parser.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp17184/home/a/adeve/adeveloper.ru/public_html/fx/opt.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp41725/home/a/adeve/adeveloper.ru/public_html/fx/news.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp12514/home/a/adeve/adeveloper.ru/public_html/fx/investing.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp53992/home/a/adeve/adeveloper.ru/public_html/fx/investing.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp51801/home/a/adeve/adeveloper.ru/public_html/fx/opt_parser.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp40831/home/a/adeve/adeveloper.ru/public_html/fx/news.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp47801/home/a/adeve/adeveloper.ru/public_html/fx/investing.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp55222/home/a/adeve/adeveloper.ru/public_html/fx/opt_parser.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp50412/home/a/adeve/adeveloper.ru/public_html/fx/data.out",
+		"/C/web/home/FX/dom_testcase.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp45376/home/a/adeve/adeveloper.ru/public_html/fx/opt.txt",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp45403/home/a/adeve/adeveloper.ru/public_html/fx/opt_parser.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp45096/home/a/adeve/adeveloper.ru/public_html/fx/index.php",
+		"/C/web/home/FX/simple_html_dom.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp29743/home/a/adeve/victor-khudyakov.ru/public_html/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp29118/home/a/adeve/victor-khudyakov.ru/public_html/bitrix/templates/gallery/header.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp30805/home/a/adeve/victor-khudyakov.ru/public_html/bitrix/templates/gallery/footer.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp44174/home/a/adeve/adeveloper.ru/public_html/fx/opt.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp41581/home/a/adeve/adeveloper.ru/public_html/fx/opt.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp41581/home/a/adeve/adeveloper.ru/public_html/fx/ndt.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp58290/home/a/adeve/adeveloper.ru/public_html/fx/ndt.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp24878/home/a/adeve/adeveloper.ru/public_html/fx/ndt.php",
+		"/C/web/home/FX/index.php",
+		"/C/home/08_forex/Архив котировок/GBPUSD/ИПЦ.mqh",
+		"/C/home/08_forex/Архив котировок/CNY/1.mqh",
+		"/C/home/08_forex/Архив котировок/GBPUSD/ИПЦ.txt",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp26875/home/a/adeve/adeveloper.ru/public_html/fx/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp44085/home/a/adeve/adeveloper.ru/public_html/fx/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp33751/home/a/adeve/adeveloper.ru/public_html/fx/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp33550/home/a/adeve/adeveloper.ru/public_html/fx/sig.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp17234/home/a/adeve/adeveloper.ru/public_html/fx/opt.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp31260/home/a/adeve/adeveloper.ru/public_html/fx/opt.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp51822/home/a/adeve/adeveloper.ru/public_html/options.txt",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp09546/home/a/adeve/adeveloper.ru/public_html/fx/opt.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp08760/home/a/adeve/adeveloper.ru/public_html/fx/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp14951/home/a/adeve/adeveloper.ru/public_html/log.txt",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp06373/home/a/adeve/adeveloper.ru/public_html/fx/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp56184/home/a/adeve/adeveloper.ru/public_html/fx/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp48212/home/k/kvinta34/new.kultprosvetmag/public_html/bitrix/php_interface/dbconn.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp47268/home/k/kvinta34/new.kultprosvetmag/public_html/bitrix/.settings.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp42058/home/k/kvinta34/new.kultprosvetmag/public_html/.htaccess",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp41725/home/k/kravetz/hrams/hram-luki/public_html/hram/timetable/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp03557/home/k/kravetz/hrams/hram-luki/public_html/hram/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp15613/home/a/adeve/adeveloper.ru/public_html/fx/sig.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp24577/home/k/kravetz/hrams/hram-luki/public_html/hram/timetable/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp03672/home/a/adeve/adeveloper.ru/public_html/fx/1.log",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp22818/home/a/adeve/adeveloper.ru/public_html/fx/1.log",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp40931/home/belsahar/belsahar.ru/docs/category/sugar/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp21783/home/belsahar/belsahar.ru/docs/bitrix/templates/BSC/components/bitrix/catalog.section/veget/template.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp02122/home/belsahar/belsahar.ru/docs/bitrix/templates/BSC/components/bitrix/catalog.filter/veget/template.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp47874/home/belsahar/belsahar.ru/docs/category/vegetable/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp46193/home/belsahar/belsahar.ru/docs/category/vegetable/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp44265/home/belsahar/belsahar.ru/docs/category/fruit/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp55444/home/belsahar/belsahar.ru/docs/bitrix/templates/BSC/components/bitrix/catalog.filter/frukt/template.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp28197/home/belsahar/belsahar.ru/docs/category/vegetable/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp21808/home/belsahar/belsahar.ru/docs/bitrix/templates/BSC/components/bitrix/catalog.section/veget/template.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp19640/home/i/icona/public_html/bitrix/templates/kravetz_icons/components/bitrix/news.list/home-list/template.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp22775/home/i/icona/public_html/bitrix/templates/kravetz_icons/components/bitrix/news/news_calendar/news.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp25478/home/i/icona/public_html/bitrix/templates/kravetz_icons/components/bitrix/news/news_calendar/bitrix/news.list/.default/template.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp20033/home/i/icona/public_html/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp56488/home/i/icona/public_html/bitrix/templates/kravetz_icons/components/bitrix/news/news_calendar/bitrix/news.list/.default/template.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp56354/home/i/icona/public_html/bitrix/templates/kravetz_icons/components/bitrix/news/news_calendar/news.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp27054/home/a/adeve/adeveloper.ru/public_html/mark/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp55386/home/i/icona/public_html/bitrix/templates/kravetz_icons/include_areas/home-info.php",
+		"/C/home/08_forex/Стратегии/барс/false.xls",
+		"/C/web/home/hrams/blago/.htaccess",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp35241/home/d/dblago/test/public_html/.htaccess",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp10245/home/k/kravetz/hrams/hram-luki/public_html/hram/timetable/index.php",
+		"/C/web/home/hrams/hram-luki/Расписание/2015/Февраль/index.php",
+		"/C/web/home/hrams/hram-luki/Расписание/2015/Январь/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp40193/home/k/kravetz/hrams/hram-luki/public_html/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp49233/home/k/kravetz/hrams/hram-luki/public_html/hram/obrashchenie-mitropolita/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp14505/home/k/kravetz/hrams/hram-luki/public_html/bitrix/templates/hram_luki/footer.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp40217/home/i/icona/public_html/news/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp54890/home/i/icona/public_html/bitrix/templates/kravetz_icons/components/bitrix/catalog/catalog-wop/bitrix/catalog.element/.default/template.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp11946/home/k/kravetz/hrams/hram-luki/public_html/bitrix/templates/hram_luki/header.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp53834/home/k/kravetz/hrams/hram-luki/public_html/hram/obrashchenie-mitropolita/.section.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp53401/home/k/kravetz/hrams/hram-luki/public_html/hram/obrashchenie-mitropolita/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp29691/home/k/kravetz/hrams/hram-luki/public_html/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp57512/home/k/kravetz/hrams/hram-luki/public_html/hram/luka/.section.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp53313/home/k/kravetz/hrams/hram-luki/public_html/hram/.second.menu.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp54089/home/k/kravetz/hrams/hram-luki/public_html/.left.menu.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp56162/home/i/icona/public_html/bitrix/templates/kravetz_icons/components/bitrix/news.list/home-list/template.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp05891/home/i/icona/public_html/bitrix/templates/kravetz_icons/header.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp11467/home/i/icona/public_html/bitrix/templates/kravetz_icons/template_styles.css",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp10372/home/i/icona/public_html/bitrix/templates/kravetz_icons/components/kravetz/sale.basket.basket.line/line-wop/style.css",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp08963/home/i/icona/public_html/bitrix/templates/kravetz_icons/components/kravetz/sale.basket.basket.line/line-wop/template.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp09419/home/i/icona/public_html/bitrix/templates/kravetz_icons/components/kravetz/sale.basket.basket.line/line-wop/lang/ru/template.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp07822/home/k/kravetz/kravetz.ru/public_html/forms/conference/2015/xlslist.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp12515/home/k/kravetz/kravetz.ru/public_html/forms/conference/2015/xlslist.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp45311/home/k/kravetz/kravetz.ru/public_html/forms/conference/2015/.htaccess",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp11364/home/k/kravetz/kravetz.ru/public_html/forms/conference/2014/xlslist.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp53846/home/k/kravetz/ko-hram.ru/public_html/hram/timetable/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp58891/home/k/kravetz/ko-hram.ru/public_html/address/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp57180/home/k/kravetz/ko-hram.ru/public_html/hram/timetable/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp40796/home/a/adeve/victor-khudyakov.ru/public_html/bitrix/templates/gallery/header.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp33763/home/k/kravetz/ko-hram.ru/public_html/bitrix/templates/hram_tihvin/components/bitrix/news/hram/bitrix/news.detail/.default/result_modifier.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp09962/home/k/kravetz/hrams/hram-luki/public_html/hram/timetable/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp30863/home/k/kravetz/hrams/hram-ioan/public_html/bitrix/templates/hram_ioan/footer.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp44886/home/i/icona/public_html/bitrix/php_interface/init.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp20521/home/k/kravetz/ko-hram.ru/public_html/bitrix/templates/hram_tihvin/components/bitrix/news/hram/bitrix/news.detail/.default/template.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp57945/home/k/kravetz/ko-hram.ru/public_html/hram/timetable/index.php",
+		"/C/Users/adeveloper/AppData/Local/Temp/scp13034/home/k/kravetz/ko-hram.ru/public_html/bitrix/templates/hram_tihvin/template_styles.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dr",
+			"\n             ",
+			"background: white;",
+			"obrashchenie",
+			"background-im",
+			"356",
+			"Да",
+			"</h2>",
+			"<h2>",
+			"</span>",
+			"<span >",
+			"<span>",
+			"<o:p></o:p>",
+			"style=\"[^\"]+\"",
+			"class=\"MsoNormal\"",
+			"background: white;",
+			"style=\"[^\"]+\"",
+			"</h2>",
+			"<h2>",
+			"<span style=\"font-size: 20pt;\">",
+			"<o:p></o:p>",
+			"</span>",
+			"<span style=\"font-size: 18pt;\">",
+			"<span style=\"font-size: 16pt;\">",
+			"class=\"Standard\"",
+			"ShowAll",
+			"PAGE",
+			"kravetz",
+			"test.kravetz.ru",
+			"kravets",
+			"FILTER",
+			"/catalog/stulya-i-stolyi-dlya-oteley-i-restoranov/",
+			"<br />",
+			"title",
+			"ConvertPrice",
+			"#header ul.contacts li.phone",
+			"ul.rec",
+			"translit",
+			"BUY_LINK",
+			"Buy",
+			"MORE_PHOTO",
+			"PRICE",
+			"CHAIN_PATH",
+			"8",
+			"chain",
+			"$descr_bottom",
+			"<?",
+			"#header ul.contacts li.phone",
+			"stem",
+			"CSearch",
+			"PARAMS",
+			"dra",
+			"arrFILTER",
+			"GetList",
+			"GETList",
+			"#ffa500",
+			"menu",
+			"width=\"[^\"]+\"",
+			"width=\"424\"",
+			"style=\"[^\"]+\"",
+			"</p>",
+			"<p class=\"MsoNormal\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" ",
+			"",
+			"</b>",
+			"<b>",
+			"",
+			"</b>",
+			"<b>",
+			"",
+			"salvadore-salon.ru",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/vip/bx-vip-auth-line.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bx-uf.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "snippets_bx.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

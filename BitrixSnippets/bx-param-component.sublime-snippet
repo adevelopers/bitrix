@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+		"param_NAME" => Array(
+			"PARENT" => "VISUAL", 
+			"NAME" => GetMessage("param_NAME"),
+			"TYPE" => "STRING",
+			"DEFAULT" => "960",
+		),
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-param-component</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

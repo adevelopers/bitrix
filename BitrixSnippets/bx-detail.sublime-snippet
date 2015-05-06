@@ -1,0 +1,116 @@
+<snippet>
+	<content><![CDATA[
+<?=SITE_ID;?>
+<?=SITE_TEMPLATE_PATH;?>		
+
+/********* JQUERY ********************/
+# CUtil::InitJSCore();
+CJSCore::Init(array("jquery"));
+
+
+/********* SECTION.LIST **************/	
+<?=\$arSection["NAME"]?>
+<?=\$arSection["PICTURE"]["SRC"];?>
+<?=\$arSection["SECTION_PAGE_URL"]?>
+
+/********* SECTION **************/		
+<?=\$arElement["DETAIL_PAGE_URL"];?>
+<?=\$arElement["PRICES"]["BASE"]["PRINT_VALUE"];?>
+<?=\$arElement["PRICES"]["BASE"]["VALUE"];?>
+<?=\$arElement["PRICES"]["BASE"]["CURRENCY"];?>
+<?=\$arElement["ADD_URL"];?>
+<?=\$arElement["PREVIEW_PICTURE"]["SRC"];?>
+<?=\$arElement["DETAIL_PICTURE"]["SRC"];?>
+
+/******* DETAIL PAGE ************/
+<?=\$arResult["NAME"];?>
+<?=\$arResult["PREVIEW_PICTURE"]["SRC"];?>
+<?=\$arResult["DETAIL_PICTURE"]["SRC"];?>
+<?=\$arResult["ADD_URL"];?>
+<?=\$arResult["BUY_URL"];?>
+
+<script type="text/javascript">
+\$(document).ready(function() {
+	\$('.catalog-detail-images').fancybox({
+		'transitionIn': 'elastic',
+		'transitionOut': 'elastic',
+		'speedIn': 600,
+		'speedOut': 200,
+		'overlayShow': false,
+		'cyclic' : true,
+		'padding': 20,
+		'titlePosition': 'over',
+		'onComplete': function() {
+		\$("#fancybox-title").css({ 'top': '100%', 'bottom': 'auto' });
+		}
+	});
+});
+</script>
+
+/******* DETAIL PAGE: component_epilog *******/
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
+\$APPLICATION->AddHeadScript('/bitrix/templates/'.SITE_TEMPLATE_ID.'/js/fancybox/jquery.fancybox-1.3.1.pack.js');
+\$APPLICATION->SetAdditionalCSS('/bitrix/templates/'.SITE_TEMPLATE_ID.'/js/fancybox/jquery.fancybox-1.3.1.css');
+
+
+/****** ESHOP.SALE.BASKET.BASKET ************/
+<?=\$arBasketItems["NAME"];?>
+<?=\$arBasketItems["PRICE_FORMATED"];?>
+<?=\$arBasketItems["QUANTITY"];?>
+
+/***** CATALOG.TOP **************************/
+<?foreach(\$arResult["ROWS"] as \$arItems):?>
+		<?
+		\$this->AddEditAction(\$arElement['ID'], \$arElement['EDIT_LINK'], CIBlock::GetArrayByID(\$arElement["IBLOCK_ID"], "ELEMENT_EDIT"));
+		\$this->AddDeleteAction(\$arElement['ID'], \$arElement['DELETE_LINK'], CIBlock::GetArrayByID(\$arElement["IBLOCK_ID"], "ELEMENT_DELETE"), array("CONFIRM" => GetMessage('CT_BCT_ELEMENT_DELETE_CONFIRM')));
+		?>
+		<?foreach(\$arItems as \$arElement):?>
+			<div id="<?=$this->GetEditAreaId($arElement['ID']);?>">
+				<?=\$arElement["NAME"]?>
+				<?=\$arElement["DETAIL_PAGE_URL"]?>
+				<?=\$arElement["PREVIEW_PICTURE"]["SRC"];?>
+				<?=\$arElement["PREVIEW_TEXT"]?>
+			</div>
+		<? endforeach; ?>
+<? endforeach; ?>
+
+/***** ESHOP.CATALOG.TOP **************************/
+<?foreach(\$arResult["ITEMS"] as \$key => \$arItem): ?>
+		<?=\$arItem["NAME"];?>
+		<?=\$arItem["DETAIL_PAGE_URL"];?>
+		<?=\$arItem["PREVIEW_IMG"]["SRC"];?>
+		<?=\$arItem["PREVIEW_TEXT"];?>
+		<?=\$arItem["PRICES"]["BASE"]["PRINT_VALUE"];?>
+		<?=\$arItem["PRICES"]["BASE"]["VALUE"];?>
+		<?=\$arItem["BUY_URL"];?>
+<? endforeach; ?>
+
+/***** NEWS ***************************************/
+<? foreach(\$arResult["ITEMS"] as \$arItem):?>
+<?if(\$arParams["DISPLAY_TOP_PAGER"]):?>
+	<?=\$arResult["NAV_STRING"]?><br />
+<?endif;?>
+	<?
+	\$this->AddEditAction(\$arItem['ID'], \$arItem['EDIT_LINK'], CIBlock::GetArrayByID(\$arItem["IBLOCK_ID"], "ELEMENT_EDIT"));
+	\$this->AddDeleteAction(\$arItem['ID'], \$arItem['DELETE_LINK'], CIBlock::GetArrayByID(\$arItem["IBLOCK_ID"], "ELEMENT_DELETE"), array("CONFIRM" => GetMessage('CT_BNL_ELEMENT_DELETE_CONFIRM')));
+	?>
+	<?if (\$arParams["DISPLAY_DATE"]!="N") ?>
+	<? \$arItem["DISPLAY_ACTIVE_FROM"] ?>
+	<?=\$arItem["DETAIL_TEXT"];?>
+	<?=\$arItem["NAME"]; ?>
+	<?=\$arItem["DETAIL_PAGE_URL"];?>
+	<?=\$arItem["PREVIEW_TEXT"];?>
+	<?=\$arItem["PREVIEW_PICTURE"]["SRC"]?>
+	<?=\$arItem["PREVIEW_PICTURE"]["WIDTH"]?>
+	<?=\$arItem["PREVIEW_PICTURE"]["HEIGHT"]?>
+	id="<?=\$this->GetEditAreaId(\$arItem['ID']);?>"
+
+<? endforeach; ?>
+
+
+]]></content>
+	<!--  version 1.1 -->
+	<tabTrigger>bx-detail</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

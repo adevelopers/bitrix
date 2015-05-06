@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+require (\$_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/epilog_after.php");
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-prolog-after</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

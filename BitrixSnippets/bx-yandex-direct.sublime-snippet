@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+ <?\$APPLICATION->IncludeComponent(
+	"smedia:yandex.direct",
+	"",
+	Array(
+		"BLOCK_TYPE" => "vertical",
+		"SHOW_ICONS" => "Y",
+		"FONT_NAME" => "default",
+		"FONT_SIZE" => "1",
+		"TITLE_FONT_SIZE" => "1",
+		"BORDER" => "no",
+		"BLOCK_BACKGROUND" => "transparent",
+		"C_SITE_BACKGROUND" => "FFFFFF",
+		"C_HEADER_BACKGROUND" => "transparent",
+		"C_TITLE" => "0000CC",
+		"C_TEXT" => "000000",
+		"C_URL" => "006600",
+		"C_HOVER" => "0066FF",
+		"CACHE_TYPE" => "A",
+		"CACHE_TIME" => "0",
+		"CACHE_NOTES" => "",
+		"LIMIT" => "2",
+		"HEADER_POSITION" => "top"
+	)
+);?> 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-yandex-direct</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

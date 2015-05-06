@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+if(CModule::IncludeModule("iblock")) {
+	
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-include-module</tabTrigger>
+</snippet>

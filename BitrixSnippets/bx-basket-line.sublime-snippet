@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<?
+						\$APPLICATION->IncludeComponent("bitrix:sale.basket.basket.line", ".default", array(
+	"PATH_TO_BASKET" => SITE_DIR."personal/cart/",
+	"PATH_TO_PERSONAL" => SITE_DIR."personal/",
+	"SHOW_PERSONAL_LINK" => "N",
+	"BUY_URL_SIGN" => "action=ADD2BASKET"
+	),
+	false
+);
+					?>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-basket-line</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

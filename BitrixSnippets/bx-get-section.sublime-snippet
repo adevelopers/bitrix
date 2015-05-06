@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+\$db_section = CIBlockElement::GetElementGroups(\$ELEMENT_ID, true);
+if (\$arSection = \$db_section->Fetch())
+	dra(\$arSection);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-get-section</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<? if (\$USER->IsAuthorized()):?>
+<div id="vip-auth-line" >Вы авторизованы как: <?=\$USER->GetLogin(); ?> <a href="?logout=yes">Выйти из кабинета</a></div>
+<? else: ?>
+<div id="vip-login"><a href="/auth/">Вход</a></div>
+<? endif; ?>
+]]></content>
+	<tabTrigger>bx-vip-auth</tabTrigger> 
+</snippet>

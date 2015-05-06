@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+    <![CDATA[
+<?\$APPLICATION->IncludeComponent("bitrix:calendar.grid", "${1:.default}", Array(
+   "CALENDAR_TYPE" => "${2:}",	// Тип календаря
+   ),
+  false
+);?>
+  ]]>
+</content>
+<tabTrigger>bx-calendar-grid</tabTrigger>
+<description>Bitrix calendar.grid</description>
+</snippet>

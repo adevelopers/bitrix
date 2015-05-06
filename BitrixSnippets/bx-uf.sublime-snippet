@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+#echo "Рейтинг комментария: ".GetUserField ("BLOG_COMMENT", \$CommentID, "UF_RATING"); 
+#SetUserField ("BLOG_COMMENT", \$CommentID, "UF_RATING", \$Rating); 
+
+function GetUserField (\$entity_id, \$value_id, \$property_id) 
+{ 
+   \$arUF = \$GLOBALS["USER_FIELD_MANAGER"]->GetUserFields (\$entity_id, \$value_id); 
+   return \$arUF[\$property_id]["VALUE"]; 
+} 
+
+function SetUserField (\$entity_id, \$value_id, \$uf_id, \$uf_value) 
+{ 
+   return \$GLOBALS["USER_FIELD_MANAGER"]->Update (\$entity_id, \$value_id, 
+   Array (\$uf_id => \$uf_value)); 
+} 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-uf</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

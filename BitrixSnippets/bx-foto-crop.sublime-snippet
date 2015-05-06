@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+foreach (\$arResult["ITEMS"] as \$key => \$arFoto) {
+    \$image_resize = CFile::ResizeImageGet(\$arFoto["PREVIEW_PICTURE"], array("width" =>200, "height" => 133), BX_RESIZE_IMAGE_EXACT ); //обрезаем с сохранением пропорций, удаляем лишнее
+	\$arResult["ITEMS"][\$key]["PREVIEW_PICTURE"]['SRC'] = \$image_resize["src"];
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-foto-crop</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

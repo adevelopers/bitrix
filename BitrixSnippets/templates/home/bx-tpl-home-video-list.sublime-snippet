@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<style type="text/css" media="screen">
+	div.clear-fix { clear:both;}
+	#home-video { width: 100%; }
+	#home-video ul > li { width: 100px; float: left; border: 1px solid #ccc; margin-left:30px; padding:20px; }
+</style>
+<div id="home-video">
+	<ul>
+		<li>Видео 1</li>
+		<li>Видео 2</li>
+		<li>Видео 3</li>
+	</ul>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-tpl-home-video-list</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

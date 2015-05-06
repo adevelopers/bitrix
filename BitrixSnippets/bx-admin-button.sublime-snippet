@@ -1,0 +1,35 @@
+<snippet>
+	<content><![CDATA[
+<? if(is_current('/bitrix/admin/') || strstr( \$_SERVER['REQUEST_URI'], 'dt_page' ) ): ?>
+<? CJSCore::Init( 'jquery' );   ?>
+<script type="text/javascript">
+ 
+    \$( function() {
+        /**
+         * Добавляем кнопку
+         */
+        \$( '.adm-btn.adm-btn-desktop-gadgets.adm-btn-menu' ).before( '<a title="" class="adm-btn adm-btn-desktop-gadgets adm-btn-test-btn" hidefocus="true" href="/bitrix/admin/dump_list.php?lang=ru">Восстановить сайт</a>&nbsp;' );
+
+        \$( '.adm-btn.adm-btn-desktop-gadgets.adm-btn-menu' ).before( '<a title="" class="adm-btn adm-btn-desktop-settings adm-btn-test-btn" hidefocus="true" href="/bitrix/admin/dump_list.php?lang=ru">Сохранить сайт</a>&nbsp;' );
+ 
+        /**
+         * Навешиваем на кнопку обработчик щелчка
+         */
+       /* \$( '.adm-btn-test-btn' ).live( 'click', function() {
+        	alert('OK');
+            \$.ajax('/bitrix/admin/dump_list.php?lang=ru', function() { 
+
+            } );
+             
+            return false;
+        } );*/
+    } );
+ 
+</script>
+<? endif;?>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

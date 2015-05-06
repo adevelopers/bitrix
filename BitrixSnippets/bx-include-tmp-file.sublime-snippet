@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+ \$APPLICATION->IncludeFile(SITE_TEMPLATE_PATH.'/temper_areas/copyright.php'); 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-include-tmp-file</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

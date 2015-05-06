@@ -1,0 +1,127 @@
+<snippet>
+	<content><![CDATA[
+.dd-navmenu {
+    background: -webkit-linear-gradient(#f6f6f6, #e9eaea) repeat scroll 0 0 transparent;
+    background: -moz-linear-gradient(#f6f6f6, #e9eaea) repeat scroll 0 0 transparent;
+    background: linear-gradient(#f6f6f6, #e9eaea) repeat scroll 0 0 transparent;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6f6f6', endColorstr='#e9eaea',GradientType=0 );
+    border-radius: 0 0 4px 4px;
+    border-top: 1px solid #D1D1D1;
+    box-shadow: -1px 1px 0 rgba(255, 255, 255, 0.8) inset;
+    clear: both;
+    height: 51px;
+    padding-top: 1px;
+    width: 978px;
+    margin: 0 auto;
+}
+ 
+.dd-menu {
+    float: left;
+}
+.dd-menu a {
+    text-decoration: none;
+}
+.dd-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.dd-menu > ul > li {
+    float: left;
+    padding-bottom: 12px;
+}
+.dd-menu ul li a {
+    border-color: #D1D1D1;
+    border-image: none;
+    border-style: solid;
+    border-width: 0 1px 0 0;
+    box-shadow: -1px 0 0 rgba(255, 255, 255, 0.8) inset, 1px 0 0 rgba(255, 255, 255, 0.8) inset;
+    color: #333333;
+    display: block;
+    font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+    padding: 11px 37px 10px;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+.dd-menu ul li.last a {
+    border: none;
+    box-shadow: none;
+}
+.dd-menu ul li a:hover {
+    background: -webkit-linear-gradient(#efefef, #e9eaea) repeat scroll 0 0 transparent;
+    background: -moz-linear-gradient(#efefef, #e9eaea) repeat scroll 0 0 transparent;
+    background: linear-gradient(#efefef, #e9eaea) repeat scroll 0 0 transparent;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#efefef', endColorstr='#e9eaea',GradientType=0 );
+}
+.dd-menu > ul > li.active > a {
+    background: -webkit-linear-gradient(#00abe1, #006fb8) repeat scroll 0 0 transparent;
+    background: -moz-linear-gradient(#00abe1, #006fb8) repeat scroll 0 0 transparent;
+    background: linear-gradient(#00abe1, #006fb8) repeat scroll 0 0 transparent;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00abe1', endColorstr='#006fb8',GradientType=0 );
+    border-bottom: 1px solid #0169b5;
+    border-top: 1px solid #00caed;
+    box-shadow: -1px 0 0 #55A6F1 inset, 1px 0 0 #55A6F1 inset;
+    color: #FFFFFF;
+    margin: -1px 0 -1px -1px;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
+}
+.dd-menu > ul > li.active > a:hover {
+    background: -webkit-linear-gradient(#00abe1, #0169b5) repeat scroll 0 0 transparent;
+    background: -moz-linear-gradient(#00abe1, #0169b5) repeat scroll 0 0 transparent;
+    background: linear-gradient(#00abe1, #0169b5) repeat scroll 0 0 transparent;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00abe1', endColorstr='#0169b5',GradientType=0 );
+}
+.dd-menu > ul > li:first-child > a {
+    border-radius: 0 0 0 5px;
+}
+ 
+.dd-menu ul ul {
+    background: -webkit-linear-gradient(#F7F7F7, #F4F4F4) repeat scroll 0 0 padding-box transparent;
+    background: -moz-linear-gradient(#F7F7F7, #F4F4F4) repeat scroll 0 0 padding-box transparent;
+    background: linear-gradient(#F7F7F7, #F4F4F4) repeat scroll 0 0 padding-box transparent;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F7F7F7', endColorstr='#F4F4F4',GradientType=0 );
+ 
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 1px 0 #FFFFFF inset;
+    height: 0;
+    margin-top: 10px;
+    opacity: 0;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    visibility: hidden;
+    width: 250px;
+    z-index: 10;
+ 
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+}
+.dd-menu ul  li:hover ul  {
+    height: auto;
+    opacity: 1;
+    visibility: visible;
+}
+.dd-menu ul ul a {
+    border-right-width: 0;
+    border-top: 1px solid #D1D1D1;
+    box-shadow: 0 1px 0 #FFFFFF inset;
+    color: #444444;
+    height: 24px;
+    line-height: 24px;
+    padding: 7px 12px;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+.dd-menu ul ul li:first-child a {
+    border-top-width: 0;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-menu-2x-css</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+			<?\$APPLICATION->IncludeComponent(
+				"bitrix:asd.share.buttons",
+				"",
+				Array(
+					"ASD_ID" => "",
+					"ASD_TITLE" =>  \$arResult["~NAME"],
+					"ASD_URL" => GetShortLink(\$arResult["~DETAIL_PAGE_URL"]),
+					"ASD_PICTURE" => \$arResult["DETAIL_PICTURE"]["SRC"],
+					"ASD_TEXT" => \$obParser->html_cut(\$arItem["PREVIEW_TEXT"],65),
+					"ASD_LINK_TITLE" => "Расшарить в #SERVICE#",
+					"ASD_SITE_NAME" => "",
+					"ASD_INCLUDE_SCRIPTS" => ""
+				)
+			);?> 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-share</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

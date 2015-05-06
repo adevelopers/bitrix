@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+if(CModule::IncludeModule("iblock")) {
+		 \$el = new CIBlockElement();
+		 \$name =  \$_POST["name"];
+		 \$arComment = array(
+			"NAME"           =>  \$name,
+			  "IBLOCK_ID"      =>  \$arParams["IBLOCK_ID"],
+			  "NAME"           =>  \$name,
+			  "ACTIVE"         => "Y",            // активен
+			  "PREVIEW_TEXT"   => "текст комментария",
+			  "DETAIL_TEXT"    =>  "текст комментария",
+	  ); 
+
+	if( \$ID =  \$el->Add( \$arComment))
+	  echo "New ID: ". \$ID;
+	else
+	  echo "Error: ". \$el->LAST_ERROR;
+		
+	}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-add-element</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

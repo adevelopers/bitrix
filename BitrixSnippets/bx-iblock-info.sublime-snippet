@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+
+\$IBLOCK_ID = \$arResult["ID"];
+\$res = CIBlock::GetList(
+   Array(), 
+   Array(
+   	  'ID'=> \$IBLOCK_ID,
+      'TYPE'=>'blogs', 
+      'SITE_ID'=>SITE_ID, 
+      'ACTIVE'=>'Y', 
+      "CNT_ACTIVE"=>"Y", 
+   ), true
+);
+
+\$BLOG_INFO = array();
+while(\$ar_res = \$res->Fetch())
+{
+	\$BLOG_INFO['NAME'] = \$ar_res['NAME'];
+	\$BLOG_INFO['ELEMENT_CNT'] = \$ar_res['ELEMENT_CNT'];
+	\$BLOG_INFO['DESCRIPTION'] = \$ar_res['DESCRIPTION'];
+	\$BLOG_INFO['FOTO'] = CFile::GetFileArray(\$ar_res["PICTURE"]);
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-iblock-info</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,54 @@
+<snippet>
+	<content><![CDATA[
+function dr(\$arg){
+	echo '<pre style="font-size:10px;">';
+	var_dump(\$arg);
+	echo '</pre>';
+}
+
+function dra(\$arg)
+{
+            global \$USER;
+            if (\$USER->isAdmin())
+            {
+              dr(\$arg); 
+            }
+}
+
+
+function is_current(\$dir)
+{
+   global \$APPLICATION;
+   if (strcmp(\$APPLICATION->GetCurPage(),\$dir)==0)
+      return true;
+   else 
+	  return false;
+}
+
+function is_current_include(\$dir)
+{
+     global \$APPLICATION;
+
+   \$pos = strpos(\$APPLICATION->GetCurDir(),\$dir);
+
+   if (\$pos===false)
+      return false;  
+   else 
+      return true;
+}
+
+  function is_home()
+  {
+  	global \$APPLICATION;
+  	if (\$APPLICATION->GetCurDir()=="/" && \$APPLICATION->GetCurPage()=="/" || \$APPLICATION->GetCurDir()=="/" && \$APPLICATION->GetCurPage()=="/index.php" || \$APPLICATION->GetCurDir()=='/'.LANGUAGE_ID.'/' )
+  		return true;
+  	else 
+  		return false;
+  }
+   
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-init</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

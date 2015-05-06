@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<? \$APPLICATION->IncludeComponent(
+		"bitrix:map.yandex.view",
+		"ymap",
+		Array(
+			"INIT_MAP_TYPE" => "MAP",
+			"MAP_DATA" => \$serMapData,
+			"MAP_WIDTH" => "570",
+			"MAP_HEIGHT" => "400",
+			"CONTROLS" => array("ZOOM","MINIMAP","TYPECONTROL","SCALELINE"),
+			"OPTIONS" => array("ENABLE_SCROLL_ZOOM","ENABLE_DBLCLICK_ZOOM","ENABLE_DRAGGING"),
+			"MAP_ID" => ""
+		),
+	false
+	);?>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-ymap</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+\$iblock_id = ${1:6};
+\$arSelect = array("ID", "IBLOCK_ID", "NAME" );
+\$arFilter = array("IBLOCK_ID"=>IntVal(\$iblock_id), "ACTIVE"=>"Y");
+\$res = CIBlockElement::GetList(Array(), \$arFilter, false, Array("nPageSize"=>10), \$arSelect);
+while (\$obElement = \$res->GetNextElement())
+	{
+		\$items[]["PROPERTIES"] =\$obElement->GetProperties();
+		//\$arElement["PROPERTIES"] = \$obElement->GetProperties();
+		//dr(\$obElement);
+	}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-get-elements</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

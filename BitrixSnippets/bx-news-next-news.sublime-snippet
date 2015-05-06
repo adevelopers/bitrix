@@ -1,0 +1,47 @@
+<snippet>
+	<content><![CDATA[
+\$rsNews = CIBlockElement::GetList(array('ID' => 'DESC'), array(
+               'IBLOCK_ID' => \$arParams["IBLOCK_ID"],
+               'ACTIVE' => 'Y',
+               ),
+               false, array('nPageSize' => 1, 'nElementID' => \$arResult["ID"]),
+               array('ID', 'NAME', 'DETAIL_PAGE_URL'));
+
+\$index = 0;
+while(\$arNewsItem = \$rsNews->GetNext())
+{
+	\$index++;
+
+	if (\$arNewsItem["ID"] != \$arResult["ID"])
+		\$arLinks[$index] = \$arNewsItem['DETAIL_PAGE_URL'];
+}
+
+<!--  TO HTML TEMPLATE COD -->
+	<div id="nav-next-links">
+	<? if (array_key_exists(1, \$arLinks) && !empty(\$arLinks[1])):?>
+		<a class="prev" href="<?=\$arLinks[1];?>" ><?=GetMessage('PREV_LINK');?></a>
+	<? endif; ?>
+	<? if (array_key_exists(2, \$arLinks) && !empty(\$arLinks[2])):?>
+		<a class="next" href="<?=\$arLinks[2];?>" ><?=GetMessage('NEXT_LINK');?></a>
+	<? endif; ?>
+	<? if (array_key_exists(3, \$arLinks) && !empty(\$arLinks[3])):?>
+		<a class="next" href="<?=\$arLinks[3];?>" ><?=GetMessage('NEXT_LINK');?></a>
+	<? endif; ?>
+	</div>
+	<div class="clear-fix"></div>
+
+<!--- CSS --->
+div#nav-next-links { clear: both; margin-bottom: 60px;     }
+div#nav-next-links a { padding: 5px;   background-color:#4AABDC; color: #fff;  border:1px solid #4AABDC;   padding-right: 20px; padding-left: 20px; font: 700 14px/17px 'Open Sans',sans-serif;}
+div#nav-next-links a:hover { cursor: hand; } 
+div#nav-next-links a.prev{ float: left;}
+div#nav-next-links a.next { float: right;}
+.clear-fix {clear: both;}	
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-news-next-news</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+
+\$APPLICATION->IncludeComponent(
+	"bitrix:menu",
+	"",
+	Array(
+		"ROOT_MENU_TYPE" => "left",
+		"MAX_LEVEL" => "1",
+		"CHILD_MENU_TYPE" => "left",
+		"USE_EXT" => "N",
+		"DELAY" => "N",
+		"ALLOW_MULTI_SELECT" => "N",
+		"MENU_CACHE_TYPE" => "N",
+		"MENU_CACHE_TIME" => "3600",
+		"MENU_CACHE_USE_GROUPS" => "Y",
+		"MENU_CACHE_GET_VARS" => ""
+	),
+false
+);
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx_menu</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!--<scope>source.python</scope>-->
+</snippet>

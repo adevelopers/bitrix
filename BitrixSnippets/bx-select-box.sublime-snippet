@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+		<?
+		\$arr = array(
+		    "REFERENCE" => // массив заголовков элементов
+		        array("Вариант 1", "Вариант 2", "Вариант 3"),
+		    "REFERENCE_ID" => // массив значений элементов
+		        array(1, 2, 3)
+		    ); 
+		echo SelectBoxFromArray("CHOICE", \$arr, \$CHOICE, "", "", true, "form2");
+		?>
+		]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-select-box</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

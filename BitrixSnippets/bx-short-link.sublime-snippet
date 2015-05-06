@@ -1,0 +1,43 @@
+<snippet>
+	<content><![CDATA[
+function GetShortLink(\$url='')
+{
+		// SITE_SERVER_NAME
+		global \$APPLICATION;
+        CModule::IncludeModule( 'main' );
+ 
+ 		if (empty(\$url)) \$url = \$APPLICATION->GetCurPage();
+
+        \$show = false;
+        \$rsData = CBXShortUri::GetList( array(), array() );
+        while ( \$arRes = \$rsData->Fetch() )
+        {
+            if ( \$arRes[ "URI" ] == \$url )
+            {
+                \$str_SHORT_URI = \$arRes[ "SHORT_URI" ];
+                \$show = true;
+            }
+        }
+        if ( \$show )
+        {
+            return  '/' . \$str_SHORT_URI;
+        } else
+        {
+            \$str_SHORT_URI = CBXShortUri::GenerateShortUri();
+            \$arFields = Array(
+                "URI" => \$url,
+                "SHORT_URI" => \$str_SHORT_URI,
+                "STATUS" => "301",
+            );
+            \$ID = CBXShortUri::Add( \$arFields );
+            return  '/' . \$str_SHORT_URI;
+        }
+}
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-short-link</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,58 @@
+<snippet>
+	<content><![CDATA[
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
+<? if (!empty(\$arResult["DETAIL_PICTURE"]["SRC"])): ?>
+								<a href="<?=\$arResult["DETAIL_PICTURE"]["SRC"]?>" class="fancybox">
+									<img itemprop="image"   alt="<?=\$arResult["NAME"];?>" src="<?=\$arResult["DETAIL_PICTURE"]["SRC"]?>" />
+								</a>
+								<? else: ?>
+									<img alt="<?=\$arResult["NAME"];?>" src="<?=SITE_TEMPLATE_PATH;?>/images/no-photo.png" />
+								<? endif; ?>
+								<h1 itemprop="name"><?=\$arResult["NAME"];?></h1>
+								<span class="date">
+									<?=\$arResult["DISPLAY_ACTIVE_FROM"]?>
+								</span>
+								<!-- <a href="#">Добавлено руководством благочиния</a> -->
+	<div id="detail-text" itemprop="description">
+		<? if (!empty(\$arResult["DETAIL_TEXT"])): ?>
+			<?echo \$arResult["DETAIL_TEXT"];?>
+		<?else:?>
+			<?echo \$arResult["PREVIEW_TEXT"];?>
+		<?endif?>
+	</div>
+	<div class="more_news">
+		<a href="<?=\$arResult["TORIGHT"]["URL"];?>" class="prev_news">&laquo; Предыдущая новость</a>
+		<a href="<?=\$arResult["TOLEFT"]["URL"];?>" class="next_news">Следующая новость &raquo;</a>
+		<? if(array_key_exists("USE_SHARE", \$arParams) && \$arParams["USE_SHARE"] == "Y"): ?>
+								<div class="share">
+										<noindex>
+										<?
+										\$APPLICATION->IncludeComponent("bitrix:asd.share.buttons", "red", Array(
+		"ASD_ID" => \$_REQUEST["id"],
+		"ASD_TITLE" => \$arResult["~NAME"],
+		"ASD_URL" => \$arResult["~DETAIL_PAGE_URL"],
+		"ASD_PICTURE" => \$arResult["DETAIL_PICTURE"]["SRC"],
+		"ASD_TEXT" => strip_tags(\$arResult["PREVIEW_TEXT"]),
+		"ASD_LINK_TITLE" => \$arResult["~NAME"],
+		"ASD_SITE_NAME" => \$arResult["~NAME"],
+		#"ASD_INCLUDE_SCRIPTS" => array("FB_LIKE", "VK_LIKE", "TWITTER", "GOOGLE"),
+		#"LIKE_TYPE" => "LIKE",
+		#"VK_API_ID" => "",
+		#"VK_LIKE_VIEW" => "mini",
+		#"TW_DATA_VIA" => "",
+		"SCRIPT_IN_HEAD" => "Y"
+	),
+											\$component,
+											array("HIDE_ICONS" => "Y")
+										);
+										?>
+										</noindex>
+								</div>
+								<? endif; ?>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-tpl-news-detail</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
