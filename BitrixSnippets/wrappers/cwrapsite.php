@@ -2,7 +2,7 @@
 
 class CWrapSite{
 
-	function getSectionNameById($SECTION_ID)
+	static public function getSectionNameById($SECTION_ID)
 	{
 		$ret = NULL;
 
@@ -22,6 +22,35 @@ class CWrapSite{
 			return $price.'&nbsp;руб.';
 		else
 			return $price.'&nbsp;rub.';
+	}
+
+
+	/**
+	* Функция получения ID инфоблока по его коду
+	*/
+	static public function getIBlockIDbyCode($code)
+	{
+		$strCode = trim($code); 
+
+		if (!empty($strCode)) 
+		{ 
+			
+			$res = CIBlock::GetList( 
+				array(), 
+				array( 
+				//'TYPE'=>'xmlcatalog', 
+					'ACTIVE'=>'Y', 
+					"=CODE" => $strCode),
+				true 
+				); 
+
+			while($ar_res = $res->Fetch()) 
+			{ 
+				$IBLOCK_ID=$ar_res["ID"]; 
+			} 
+			
+		}
+		return $IBLOCK_ID; 
 	}
 };
 
