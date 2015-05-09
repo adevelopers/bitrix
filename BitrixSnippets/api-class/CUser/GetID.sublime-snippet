@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+global \$USER;
+echo "ID пользователя: " . \$USER->GetID();
+]]></content>
+	<tabTrigger>CUser::GetID</tabTrigger>
+	<description>Bitrix CUser::GetID</description>
+	<scope>source.php</scope>
+</snippet>

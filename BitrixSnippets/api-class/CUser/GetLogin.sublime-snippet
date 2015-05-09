@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+global \$USER;
+echo "Логин пользователя: " . \$USER->GetLogin();
+]]></content>
+	<tabTrigger>CUser::GetLogin</tabTrigger>
+	<description>Bitrix CUser::GetLogin</description>
+	<scope>source.php</scope>
+</snippet>

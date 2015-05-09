@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+global \$USER;
+echo "E-mail пользователя: " . \$USER->GetEmail();
+]]></content>
+	<tabTrigger>CUser::GetEmail</tabTrigger>
+	<description>Bitrix CUser::GetEmail</description>
+	<scope>source.php</scope>
+</snippet>

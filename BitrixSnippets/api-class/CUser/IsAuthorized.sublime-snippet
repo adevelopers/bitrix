@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+global \$USER;
+if (\$USER->IsAuthorized()) echo "Вы авторизованы!";
+]]></content>
+	<tabTrigger>CUser::IsAuthorized</tabTrigger>
+	<description>Bitrix CUser::IsAuthorized</description>
+	<scope>source.php</scope>
+</snippet>

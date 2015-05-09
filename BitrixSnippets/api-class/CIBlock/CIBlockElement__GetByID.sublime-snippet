@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+// help: http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblockelement/getbyid.php
+\$${1:res} = CIBlockElement::GetByID(\$${2:ID});
+if(\$ar_res = \$${1:res}->GetNext())
+  echo \$ar_res['NAME'];
+]]></content>
+	<tabTrigger>CIBlockElement::GetByID</tabTrigger>
+	<description>Bitrix CIBlockElement::GetByID</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+// help: http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblocksection/getlist.php
+\$arFilter = Array(
+	'IBLOCK_ID'=>\$${1:IBLOCK_ID}, 
+	// 'SECTION_ID'=>\$SECTION_ID, 
+	'GLOBAL_ACTIVE'=>'Y', 
+	// 'PROPERTY'=>Array('*'=>'*'),
+	);
+
+\$${2:db_list} = CIBlockSection::GetList(Array("SORT"=>"ASC"), \$arFilter, true);
+
+// \$${2:db_list}->NavStart(20);
+
+//echo "<pre>";
+while(\$${3:ar_result} = \$${2:db_list}->GetNext())
+{
+  // print_r( \$${3:ar_result} );
+}
+//echo "</pre>";
+
+]]></content>
+	<tabTrigger>CIBlockSection::GetList</tabTrigger>
+	<description>Bitrix CIBlockSection::GetList</description>
+	<scope>source.php</scope>
+</snippet>

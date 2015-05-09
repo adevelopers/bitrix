@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+// help: http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblockelement/getlist.php
+\$arSelect = array( 
+	'*',
+	//'ID', 'CODE', 'NAME', 'SORT', 'PREVIEW_TEXT', 'PREVIEW_PICTURE', 'DATE_CREATE', 'DATE_ACTIVE_FROM', 
+	//'PROPERTY_*',
+);
+\$arSort = array( 'SORT'=>'ASC','DATE_ACTIVE_FROM'=>'DESC' );
+\$arFilter = array(
+	'IBLOCK_ID'=>\$${1:IBLOCK_ID},
+	'ACTIVE'=>'Y',
+	//'DATE_ACTIVE'=>'',
+	'INCLUDE_SUBSECTIONS'=>'Y',
+	'DEPTH_LEVEL'=>3,
+);
+
+\$${2:res} = CIBlockElement::GetList(\$arSort, \$arFilter, false, array("nTopCount"=>${4:100}, "nPageSize"=>${5:10} ), \$arSelect);
+
+//echo "<pre>";
+while(\$${3:ar_fields} = \$${2:res}->GetNext(true,false)){
+	// print_r( \$${3:ar_fields} );
+}
+//echo "</pre>";
+]]></content>
+	<tabTrigger>CIBlockElement::GetList</tabTrigger>
+	<description>Bitrix CIBlockElement::GetList</description>
+	<scope>source.php</scope>
+</snippet>

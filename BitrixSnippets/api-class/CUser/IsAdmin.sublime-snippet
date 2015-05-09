@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+global \$USER;
+if (\$USER->IsAdmin()) echo "Вы администратор!";
+]]></content>
+	<tabTrigger>CUser::IsAdmin</tabTrigger>
+	<description>Bitrix CUser::IsAdmin</description>
+	<scope>source.php</scope>
+</snippet>

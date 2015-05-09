@@ -1,0 +1,46 @@
+<snippet>
+	<content><![CDATA[
+<?\$APPLICATION->IncludeComponent("bitrix:bizproc.wizards","",Array(
+        "SEF_MODE" => "Y",
+        "SET_TITLE" => "Y",
+        "SET_NAV_CHAIN" => "Y",
+        "SKIP_BLOCK" => "N",
+        "IBLOCK_TYPE" => "bizproc_iblockx",
+        "ADMIN_ACCESS" => array("1"),
+        "AJAX_MODE" => "Y",
+        "SEF_FOLDER" => "/",
+        "AJAX_OPTION_SHADOW" => "Y",
+        "AJAX_OPTION_JUMP" => "N",
+        "AJAX_OPTION_STYLE" => "Y",
+        "AJAX_OPTION_HISTORY" => "N",
+        "AJAX_OPTION_ADDITIONAL" => "",
+        "SEF_URL_TEMPLATES" => Array(
+            "index" => "index.php",
+            "new" => "new.php",
+            "list" => "#block_id#/",
+            "start" => "#block_id#/start.php",
+            "edit" => "#block_id#/edit.php",
+            "task" => "#block_id#/task-#task_id#.php",
+            "bp" => "#block_id#/bp.php",
+            "setvar" => "#block_id#/setvar.php",
+            "log" => "#block_id#/log-#bp_id#.php"
+        ),
+        "VARIABLE_ALIASES" => Array(
+            "index" => Array(),
+            "new" => Array(),
+            "list" => Array(),
+            "start" => Array(),
+            "edit" => Array(),
+            "task" => Array(),
+            "bp" => Array(),
+            "setvar" => Array(),
+            "log" => Array(),
+        )
+    ),
+);?>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-bp-wizards</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

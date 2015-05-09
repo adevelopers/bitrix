@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+global \$USER;
+\$arGroups = \$USER->GetUserGroupArray();
+echo "<pre>"; print_r(\$arGroups); echo "</pre>";
+]]></content>
+	<tabTrigger>CUser::GetUserGroupArray</tabTrigger>
+	<description>Bitrix CUser::GetUserGroupArray</description>
+	<scope>source.php</scope>
+</snippet>
