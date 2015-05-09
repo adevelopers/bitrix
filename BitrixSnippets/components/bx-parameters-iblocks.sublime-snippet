@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+\$arIBlockType = array();
+\$db = CIBlockType::GetList(array("sort" => "asc"), array("ACTIVE" => "Y"));
+while (\$ar = \$db->Fetch())
+{
+	if (\$ar1 = CIBlockType::GetByIDLang(\$ar["ID"], LANGUAGE_ID))
+		\$arIBlockType[\$ar["ID"]] = "[".\$ar["ID"]."] ".\$ar1["NAME"];
+}
+
+\$arIBlocks=array();
+\$db_iblock = CIBlock::GetList(array("SORT"=>"ASC"), array("SITE_ID"=>\$_REQUEST["site"], "TYPE" => (\$arCurrentValues["IBLOCK_TYPE"]!="-"?\$arCurrentValues["IBLOCK_TYPE"]:"")));
+while(\$arRes = \$db_iblock->Fetch())
+	\$arIBlocks[\$arRes["ID"]] = \$arRes["NAME"];
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-parameters</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

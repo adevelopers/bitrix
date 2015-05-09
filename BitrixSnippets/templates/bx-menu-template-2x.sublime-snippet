@@ -1,0 +1,62 @@
+<snippet>
+	<content><![CDATA[
+<?
+/**
+ * Перегруппируем компоненты меню для удобного вывода
+ */
+\$aItems = array();
+\$aParentItem = false;
+ 
+foreach( \$arResult as \$aItem ) {
+    if( \$aItem["DEPTH_LEVEL"] == 1 ) {
+        if( \$aParentItem && ( \$aParentItem["PERMISSION"] !== "D" ) ) {
+            \$aItems[] = \$aParentItem;
+            \$aParentItem = \$aItem;
+        }
+        else \$aParentItem = \$aItem;
+    }
+ 
+    if( ( \$aItem["DEPTH_LEVEL"] == 2 ) && ( \$aParentItem["PERMISSION"] !== "D" ) ) {
+        \$aParentItem['CHILDREN'][] = \$aItem;
+    }
+}
+\$aItems[] = \$aParentItem;
+ 
+\$arResult = \$aItems;
+?>
+<?if (!empty(\$arResult)):?>
+<div class="dd-navmenu">
+    <nav class="dd-menu">
+        <ul>
+            <? foreach( \$arResult as \$iIndex => \$aItem ): ?>
+                <? 
+                    \$sClass = '';
+                    // если текущий пункт меню выбран, добавляем ему класс active
+                    if( \$aItem['SELECTED'] ) \$sClass .= ' active'; 
+                    // если пункт меню является последним, добавляем ему класс last
+                    if( \$iIndex == ( count( \$arResult ) - 1 ) ) \$sClass .= ' last';
+                ?>
+                <li class="<?=\$sClass?>"><a href="<?=\$aItem['LINK']?>"><?=\$aItem['TEXT']?></a>
+                    <? 
+                    /**
+                     * Если текущий пункт меню имеет вложенные
+                     */ ?>
+                    <? if( !empty( \$aItem['CHILDREN'] ) ): ?>
+                        <ul>
+                            <? foreach( \$aItem['CHILDREN'] as \$aChildItem ): ?>
+                                <li><a href="<?=\$aChildItem['LINK']?>"><?=\$aChildItem['TEXT']?></a></li>
+                            <? endforeach; ?>
+                        </ul>
+                    <? endif; ?>
+                </li>
+            <? endforeach; ?>
+        </ul>
+    </nav>
+</div>
+<?endif?>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-menu-2x-template</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

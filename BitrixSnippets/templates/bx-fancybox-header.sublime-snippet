@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+// Fancy Box
+\$APPLICATION->AddHeadScript('/js/img/fcb/fancybox.pack.js');
+\$APPLICATION->AddHeadScript('/js/img/fcb/fancybox-init.js');
+\$APPLICATION->SetAdditionalCSS('/js/img/fcb/fancybox.css');		
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-fancybox-call</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
