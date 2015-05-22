@@ -1,0 +1,90 @@
+<snippet>
+	<content><![CDATA[
+
+/**
+ * стандартный класс модуля
+ */
+Class adeveloper_main extends CModule
+{
+	const MODULE_ID = 'adeveloper.main';
+	var \$MODULE_ID = 'adeveloper.main'; 
+	var \$MODULE_VERSION;
+	var \$MODULE_VERSION_DATE;
+	var \$MODULE_NAME;
+	var \$MODULE_DESCRIPTION;
+	var \$MODULE_CSS;
+	var \$strError = '';
+
+	function __construct()
+	{
+		\$arModuleVersion = array();
+		include(dirname(__FILE__)."/version.php");
+		\$this->MODULE_VERSION = \$arModuleVersion["VERSION"];
+		\$this->MODULE_VERSION_DATE = \$arModuleVersion["VERSION_DATE"];
+		\$this->MODULE_NAME = "Module Name";
+		\$this->MODULE_DESCRIPTION = "Module desc";
+
+		\$this->PARTNER_NAME = "Adeveloper";
+		\$this->PARTNER_URI = "http://adeveloper.ru";
+	}
+
+	function InstallDB(\$arParams = array())
+	{
+		//RegisterModuleDependences('main', 'OnBuildGlobalMenu', self::MODULE_ID, 'CAdeveloperBp', 'OnBuildGlobalMenu');
+		return true;
+	}
+
+	function UnInstallDB(\$arParams = array())
+	{
+		//UnRegisterModuleDependences('main', 'OnBuildGlobalMenu', self::MODULE_ID, 'CAdeveloperBp', 'OnBuildGlobalMenu');
+		return true;
+	}
+
+	function InstallEvents()
+	{
+		return true;
+	}
+
+	function UnInstallEvents()
+	{
+		return true;
+	}
+
+	function InstallFiles(\$arParams = array())
+	{
+
+		return true;
+	}
+
+
+	function UnInstallFiles()
+	{
+
+		return true;
+	}
+
+	function DoInstall()
+	{
+//		global \$APPLICATION;
+
+	
+		RegisterModule(self::MODULE_ID);
+	}
+
+	/**
+	 *  @todo добавить блок удаления инфоблока, пока не делаю, чтобы лишнего не удалить
+	 */
+	function DoUninstall()
+	{
+//		global \$APPLICATION;
+		UnRegisterModule(self::MODULE_ID);
+
+	}
+
+};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bx-module-class</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
