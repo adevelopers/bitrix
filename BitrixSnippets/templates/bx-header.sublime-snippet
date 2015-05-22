@@ -1,9 +1,22 @@
 <snippet>
 	<content><![CDATA[
-d
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
+<?
+IncludeTemplateLangFile(__FILE__);
+CJSCore::Init(array("jquery"));
+
+
+\$APPLICATION->SetAdditionalCSS(SITE_TEMPLATE_PATH.'/css/css.css');
+\$APPLICATION->AddHeadScript(SITE_TEMPLATE_PATH.'/js/main.js');
+
+<?\$APPLICATION->ShowHead();?>
+<div id="admin-panel">
+  <? #$APPLICATION->ShowPanel();?>
+</div>
+
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>bx-header2</tabTrigger>
+	<tabTrigger>bx-header</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
